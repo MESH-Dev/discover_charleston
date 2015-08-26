@@ -1,0 +1,12 @@
+.background-fullscreen {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.big-banner {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}

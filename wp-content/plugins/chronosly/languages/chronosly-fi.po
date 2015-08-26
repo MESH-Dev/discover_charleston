@@ -1,0 +1,4237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chronosly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Aug 12 2014 19:38:23 GMT+0200 (Hora de verano "
+"romance)\n"
+"PO-Revision-Date: Mon Jun 22 2015 11:12:35 GMT+0200 (CEST)\n"
+"Last-Translator: admin <aitor@heimsveld.com>\n"
+"Language-Team: \n"
+"Language: Finnish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: fi_FI\n"
+"X-Poedit-SearchPath-0: ."
+
+#: ../post-types/post_type_chronosly.php:112 ../addons/filter_and_sort/init.php:
+#: 454 ../addons/filter_and_sort/init.php:464 ../addons/filter_and_sort/init.php:
+#: 484 ../classes/chronosly_widgets.php:196 ../metaboxes/settings/support.php:9 ..
+#: metaboxes/settings/welcome.php:69 ../metaboxes/settings/welcome.php:116
+msgid "Events"
+msgstr "Tapahtumat"
+
+#: ../post-types/post_type_chronosly.php:113 ../addons/filter_and_sort/init.php:
+#: 497 ../addons/filter_and_sort/init.php:904 ../classes/chronosly_settings.php:
+#: 737 ../classes/chronosly_templates.php:1145 ../metaboxes/settings/settings.php:
+#: 247
+msgid "Event"
+msgstr "Tapahtuma"
+
+#: ../post-types/post_type_chronosly.php:114 ../post-types/post_type_chronosly.
+#: php:115
+msgid "Add new event"
+msgstr "Lisää tapahtuma"
+
+#: ../post-types/post_type_chronosly.php:116
+msgid "View event"
+msgstr "Näytä tapahtuma"
+
+#: ../post-types/post_type_chronosly.php:117
+msgid "Search event"
+msgstr "Etsi tapahtumista"
+
+#: ../post-types/post_type_chronosly.php:146 ../post-
+#: types/post_type_chronosly_places.php:102
+msgid "Events type for managing your events"
+msgstr "Tapahtumatyyppi tapahtuman hallintaan"
+
+#: ../post-types/post_type_chronosly.php:1726 ../metaboxes/chronosly_date_metabox.
+#: php:32
+msgid "days"
+msgstr "päivä"
+
+#: ../post-types/post_type_chronosly.php:1727 ../metaboxes/chronosly_date_metabox.
+#: php:33
+msgid "weeks"
+msgstr "viikko"
+
+#: ../post-types/post_type_chronosly.php:1728 ../metaboxes/chronosly_date_metabox.
+#: php:34
+msgid "months"
+msgstr "kuukausi"
+
+#: ../post-types/post_type_chronosly.php:1729 ../templates/calendar-chronosly.php:
+#: 136 ../templates/calendar-chronosly.php:155 ../templates/calendar-chronosly.
+#: php:258 ../templates/calendar-chronosly.php:278 ../templates/calendar-
+#: chronosly.php:357 ../templates/calendar-chronosly.php:373
+msgid "year"
+msgstr "vuosi"
+
+#: ../post-types/post_type_chronosly.php:1730
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: ../post-types/post_type_chronosly.php:1731
+msgid "Choose"
+msgstr "Valitse"
+
+#: ../post-types/post_type_chronosly.php:1732
+msgid "Slower preview"
+msgstr "Hitaampi esikatselu"
+
+#: ../post-types/post_type_chronosly.php:1733 ../post-types/post_type_chronosly.
+#: php:2239
+msgid "Faster preview"
+msgstr "Nopeampi esikatselu"
+
+#: ../post-types/post_type_chronosly.php:1734
+msgid "overwritted"
+msgstr "ylikirjoitettu"
+
+#: ../post-types/post_type_chronosly.php:1735
+msgid "You have to specify a name or select a template to update"
+msgstr "Anna nimi tai valitse päivitettävä sivupohja"
+
+#: ../post-types/post_type_chronosly.php:1736
+msgid ""
+"The name have incorrect characters, only are alowed chars between a-z,A-Z,0-"
+"9 and - or _"
+msgstr ""
+"Nimessä on ei-sallittuja kirjaimia. Nimessä sallitaan vain merkit a-z, A-Z, "
+"0-9 ja viiva sekä alaviiva."
+
+#: ../post-types/post_type_chronosly.php:1737
+msgid "Saved successfully"
+msgstr "Tallennus onnistui"
+
+#: ../post-types/post_type_chronosly.php:1738
+msgid "Cloned successfully"
+msgstr "Kopiointi onnistui"
+
+#: ../post-types/post_type_chronosly.php:1816 ../addons/filter_and_sort/init.php:
+#: 907 ../metaboxes/settings/support.php:12 ../metaboxes/settings/welcome.php:72 .
+#: ./metaboxes/settings/welcome.php:119
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: ../post-types/post_type_chronosly.php:1817 ..
+#: addons/frontend_event_submission/init.php:684 ../addons/filter_and_sort/init.
+#: php:487 ../addons/filter_and_sort/init.php:910 ..
+#: classes/chronosly_dad_elements.php:4178 ../classes/chronosly_dad_elements.php:
+#: 4943 ../metaboxes/chronosly_tickets_metabox.php:11 ..
+#: metaboxes/marketplace/templates.php:20 ../metaboxes/marketplace/addons.php:16
+msgid "Price"
+msgstr "Hinta"
+
+#: ../post-types/post_type_chronosly.php:1818 ../post-
+#: types/post_type_chronosly_organizer.php:60 ..
+#: addons/frontend_event_submission/init.php:583 ..
+#: addons/frontend_event_submission/init.php:726 ../addons/filter_and_sort/init.
+#: php:588 ../addons/filter_and_sort/init.php:916 ../addons/filter_and_sort/init.
+#: php:1443 ../addons/filter_and_sort/init.php:1458 ..
+#: addons/filter_and_sort/init.php:1485 ../addons/filter_and_sort/init.php:1506 .
+#: ./addons/filter_and_sort/init.php:1525 ../classes/chronosly_settings.php:735 ..
+#: classes/chronosly_templates.php:1146 ../metaboxes/settings/settings.php:256
+msgid "Organizer"
+msgstr "Järjestäjä"
+
+#: ../post-types/post_type_chronosly.php:1819 ../post-
+#: types/post_type_chronosly_places.php:66 ..
+#: addons/frontend_event_submission/init.php:584 ..
+#: addons/frontend_event_submission/init.php:765 ../addons/filter_and_sort/init.
+#: php:621 ../addons/filter_and_sort/init.php:649 ../addons/filter_and_sort/init.
+#: php:682 ../addons/filter_and_sort/init.php:716 ../addons/filter_and_sort/init.
+#: php:751 ../addons/filter_and_sort/init.php:785 ../addons/filter_and_sort/init.
+#: php:801 ../addons/filter_and_sort/init.php:919 ../classes/chronosly_settings.
+#: php:736 ../classes/chronosly_templates.php:1147 ../metaboxes/settings/settings.
+#: php:258
+msgid "Place"
+msgstr "Paikka"
+
+#: ../post-types/post_type_chronosly.php:1820
+msgid "Visibility"
+msgstr "Näkyvyys"
+
+#: ../post-types/post_type_chronosly.php:1842 ../post-types/post_type_chronosly.
+#: php:1956 ../addons/frontend_event_submission/init.php:659 ..
+#: addons/frontend_event_submission/init.php:684 ../addons/filter_and_sort/init.
+#: php:469 ../addons/import_and_export/init.php:476 ..
+#: metaboxes/chronosly_date_metabox.php:1 ../metaboxes/chronosly_tickets_metabox.
+#: php:11
+msgid "From"
+msgstr "Alkaa"
+
+#: ../post-types/post_type_chronosly.php:1843 ../post-types/post_type_chronosly.
+#: php:1963 ../addons/frontend_event_submission/init.php:669 ..
+#: addons/frontend_event_submission/init.php:684 ../addons/filter_and_sort/init.
+#: php:470 ../addons/import_and_export/init.php:476 ..
+#: metaboxes/chronosly_date_metabox.php:8 ../metaboxes/chronosly_tickets_metabox.
+#: php:11
+msgid "To"
+msgstr "Loppuu"
+
+#: ../post-types/post_type_chronosly.php:1850 ../post-types/post_type_chronosly.
+#: php:1876
+msgid "Never"
+msgstr "Ei koskaan"
+
+#: ../post-types/post_type_chronosly.php:1854
+#, php-format
+msgid "Every %d day"
+msgstr "%d:n päivän välein"
+
+#: ../post-types/post_type_chronosly.php:1858
+#, php-format
+msgid "Every %d week"
+msgstr "%d:n viikon välein"
+
+#: ../post-types/post_type_chronosly.php:1862
+#, php-format
+msgid "Every %d month"
+msgstr "%d:n kuukauden välein"
+
+#: ../post-types/post_type_chronosly.php:1866
+#, php-format
+msgid "Every %d year"
+msgstr "%d:n vuoden välein"
+
+#: ../post-types/post_type_chronosly.php:1871 ../post-types/post_type_chronosly.
+#: php:1970 ../metaboxes/chronosly_date_metabox.php:15
+msgid "Repeat"
+msgstr "Toistuvuus"
+
+#: ../post-types/post_type_chronosly.php:1882
+msgid "times"
+msgstr "kertaa"
+
+#: ../post-types/post_type_chronosly.php:1935
+msgid "without image"
+msgstr "ilman kuvaa"
+
+#: ../post-types/post_type_chronosly.php:1936 ../post-types/post_type_chronosly.
+#: php:2054 ../addons/import_and_export/init.php:479 ..
+#: addons/import_and_export/init.php:592 ../addons/import_and_export/init.php:
+#: 634 ../metaboxes/chronosly_vars_metabox.php:1 ..
+#: metaboxes/chronosly_cat_vars_metabox.php:2
+msgid "Featured"
+msgstr "Nostettu"
+
+#: ../post-types/post_type_chronosly.php:1937
+msgid "Not Featured"
+msgstr "Normaali"
+
+#: ../post-types/post_type_chronosly.php:1940 ../post-types/post_type_chronosly.
+#: php:2055 ../addons/filter_and_sort/init.php:329 ../addons/filter_and_sort/init.
+#: php:351 ../addons/filter_and_sort/init.php:372 ../addons/filter_and_sort/init.
+#: php:394 ../addons/filter_and_sort/init.php:417 ..
+#: addons/import_and_export/init.php:479 ../addons/import_and_export/init.php:
+#: 592 ../addons/import_and_export/init.php:634 ..
+#: metaboxes/chronosly_vars_metabox.php:2 ..
+#: metaboxes/chronosly_cat_vars_metabox.php:3 ../metaboxes/marketplace/templates.
+#: php:17 ../metaboxes/marketplace/addons.php:13
+msgid "Order"
+msgstr "Järjestys"
+
+#: ../post-types/post_type_chronosly.php:1953
+msgid "Chronosly fields"
+msgstr "Chronosly kentät"
+
+#: ../post-types/post_type_chronosly.php:1958 ../post-types/post_type_chronosly.
+#: php:1965 ../addons/frontend_event_submission/init.php:661 ..
+#: addons/frontend_event_submission/init.php:671 ..
+#: metaboxes/chronosly_date_metabox.php:3 ../metaboxes/chronosly_date_metabox.
+#: php:10
+msgid "Hour"
+msgstr "Aika"
+
+#: ../post-types/post_type_chronosly.php:1972 ../metaboxes/chronosly_date_metabox.
+#: php:17
+msgid "Never (Not a recurring event)"
+msgstr "Ei toistuva tapahtuma"
+
+#: ../post-types/post_type_chronosly.php:1973 ../metaboxes/chronosly_date_metabox.
+#: php:18
+msgid "Every day"
+msgstr "Päivittäin"
+
+#: ../post-types/post_type_chronosly.php:1974 ../metaboxes/chronosly_date_metabox.
+#: php:19
+msgid "Every week"
+msgstr "Viikottain"
+
+#: ../post-types/post_type_chronosly.php:1975 ../metaboxes/chronosly_date_metabox.
+#: php:20
+msgid "Every month"
+msgstr "Kuukausittain"
+
+#: ../post-types/post_type_chronosly.php:1976 ../metaboxes/chronosly_date_metabox.
+#: php:21
+msgid "Every year"
+msgstr "Vuosittain"
+
+#: ../post-types/post_type_chronosly.php:1984 ../metaboxes/chronosly_date_metabox.
+#: php:29
+msgid "Repeat every"
+msgstr "Toistuu joka"
+
+#: ../post-types/post_type_chronosly.php:1989 ../metaboxes/chronosly_date_metabox.
+#: php:40
+msgid "End of repeat"
+msgstr "Toistuu"
+
+#: ../post-types/post_type_chronosly.php:1991 ../metaboxes/chronosly_date_metabox.
+#: php:42
+msgid "never"
+msgstr "ajan tappiin asti"
+
+#: ../post-types/post_type_chronosly.php:1992 ../metaboxes/chronosly_date_metabox.
+#: php:43
+msgid "by date"
+msgstr "tiettyyn päivään asti"
+
+#: ../post-types/post_type_chronosly.php:1993 ../metaboxes/chronosly_date_metabox.
+#: php:44
+msgid "by number"
+msgstr "tietyn verran kertoja"
+
+#: ../post-types/post_type_chronosly.php:2000 ../classes/chronosly_dad_elements.
+#: php:2403 ../metaboxes/chronosly_date_metabox.php:51
+msgid "End date"
+msgstr "Päättymispäivä"
+
+#: ../post-types/post_type_chronosly.php:2006 ../metaboxes/chronosly_date_metabox.
+#: php:57
+msgid "Number of repeats"
+msgstr "Toistokertoja:"
+
+#: ../post-types/post_type_chronosly.php:2021 ../post-types/post_type_chronosly.
+#: php:2134 ../post-types/post_type_chronosly_organizer.php:59 ..
+#: templates/archive-organizer-chronosly.php:56 ../addons/import_and_export/init.
+#: php:477 ../classes/chronosly_widgets.php:198 ../metaboxes/settings/support.php:
+#: 15 ../metaboxes/settings/welcome.php:75 ../metaboxes/settings/welcome.php:122
+msgid "Organizers"
+msgstr "Järjestäjä"
+
+#: ../post-types/post_type_chronosly.php:2039 ../post-types/post_type_chronosly.
+#: php:2148 ../post-types/post_type_chronosly_places.php:65 ../templates/archive-
+#: places-chronosly.php:52 ../addons/import_and_export/init.php:478 ..
+#: classes/chronosly_widgets.php:199 ../metaboxes/settings/support.php:16 ..
+#: metaboxes/settings/welcome.php:76 ../metaboxes/settings/welcome.php:123
+msgid "Places"
+msgstr "Paikat"
+
+#: ../post-types/post_type_chronosly.php:2065 ../post-
+#: types/post_type_chronosly_category.php:243 ../classes/chronosly_paint.php:76
+msgid "Color"
+msgstr "Väri"
+
+#: ../post-types/post_type_chronosly.php:2085
+msgid "Date and Time"
+msgstr "Päivä ja aika"
+
+#: ../post-types/post_type_chronosly.php:2097 ..
+#: addons/frontend_event_submission/init.php:214 ..
+#: addons/import_and_export/init.php:479 ../classes/chronosly_templates.php:1151
+#: ../metaboxes/settings/support.php:13 ../metaboxes/settings/welcome.php:73 ..
+#: metaboxes/settings/welcome.php:120
+msgid "Tickets"
+msgstr "Liput"
+
+#: ../post-types/post_type_chronosly.php:2110 ../post-
+#: types/post_type_chronosly_places.php:328 ../post-
+#: types/post_type_chronosly_organizer.php:291 ..
+#: addons/frontend_event_submission/init.php:112 ../classes/chronosly_settings.
+#: php:738 ../metaboxes/settings/templates-status.php:17
+msgid "Template"
+msgstr "Asettelu"
+
+#: ../post-types/post_type_chronosly.php:2121 ../post-
+#: types/post_type_chronosly_places.php:339 ../post-
+#: types/post_type_chronosly_organizer.php:302
+msgid "Options"
+msgstr "Valinnat"
+
+#: ../post-types/post_type_chronosly.php:2239
+msgid ""
+"If your admin runs slow try stopping template preview. Only use it when you "
+"really need it"
+msgstr ""
+"Jos sivuston hallintapaneeli toimii hitaasti, voit ottaa sivupohjan "
+"esikatselun pois käytöstä. Käytä esikatselua vain kun tarvitset sitä."
+
+#: ../post-types/post_type_chronosly.php:2239
+msgid "Loading your template"
+msgstr "Sivupohjaa ladataan"
+
+#: ../post-types/post_type_chronosly.php:2252 ../classes/chronosly_settings.php:
+#: 639 ../classes/chronosly_settings.php:739
+msgid "All events list view"
+msgstr "Näytä kaikki tapahtumat listana"
+
+#: ../post-types/post_type_chronosly.php:2253 ../classes/chronosly_settings.php:
+#: 640 ../classes/chronosly_settings.php:740
+msgid "Single event view"
+msgstr "Näytä yksittäinen tapahtuma"
+
+#: ../post-types/post_type_chronosly.php:2254 ../classes/chronosly_settings.php:
+#: 641 ../classes/chronosly_settings.php:741
+msgid "Calendar view"
+msgstr "Kalenterinäkymä"
+
+#: ../post-types/post_type_chronosly.php:2255 ../classes/chronosly_settings.php:
+#: 642 ../classes/chronosly_settings.php:742
+msgid "Category events list view"
+msgstr "Näytä kategorian tapahtumat listana"
+
+#: ../post-types/post_type_chronosly.php:2256 ../classes/chronosly_settings.php:
+#: 643 ../classes/chronosly_settings.php:743
+msgid "Organizer events list view"
+msgstr "Näytä järjestäjän tapahtumat listana"
+
+#: ../post-types/post_type_chronosly.php:2257 ../classes/chronosly_settings.php:
+#: 644 ../classes/chronosly_settings.php:744
+msgid "Place events list view"
+msgstr "Tapahtumat tässä paikassa"
+
+#: ../post-types/post_type_chronosly_places.php:67 ../post-
+#: types/post_type_chronosly_places.php:68
+msgid "Add new place"
+msgstr "Lisää paikka"
+
+#: ../post-types/post_type_chronosly_places.php:69
+msgid "View place"
+msgstr "Näytä paikka"
+
+#: ../post-types/post_type_chronosly_places.php:70
+msgid "Search place"
+msgstr "Etsi paikkaa"
+
+#: ../post-types/post_type_chronosly_places.php:317
+msgid "Place details"
+msgstr "Paikan tiedot"
+
+#: ../post-types/post_type_chronosly_places.php:373 ../classes/chronosly_settings.
+#: php:647 ../classes/chronosly_settings.php:747
+msgid "All places list view"
+msgstr "Kaikkien paikkojen tapahtumat"
+
+#: ../post-types/post_type_chronosly_places.php:374 ../classes/chronosly_settings.
+#: php:648 ../classes/chronosly_settings.php:748
+msgid "Single place view"
+msgstr "Paikan tapahtumat"
+
+#: ../post-types/post_type_chronosly_tag.php:43
+msgid "Event Tags"
+msgstr "Avainsanat"
+
+#: ../post-types/post_type_chronosly_tag.php:44
+msgid "Event Tag"
+msgstr "Avainsanat"
+
+#: ../post-types/post_type_chronosly_tag.php:45 ../post-
+#: types/post_type_chronosly_tag.php:46
+msgid "Add new tag"
+msgstr "Lisää avainsana"
+
+#: ../post-types/post_type_chronosly_tag.php:47
+msgid "View tag"
+msgstr "Näytä avainsanat"
+
+#: ../post-types/post_type_chronosly_organizer.php:61 ../post-
+#: types/post_type_chronosly_organizer.php:62
+msgid "Add new organizer"
+msgstr "Lisää järjestäjä"
+
+#: ../post-types/post_type_chronosly_organizer.php:63
+msgid "View organizer"
+msgstr "Näytä järjestäjä"
+
+#: ../post-types/post_type_chronosly_organizer.php:64
+msgid "Search organizer"
+msgstr "Etsi järjestäjä"
+
+#: ../post-types/post_type_chronosly_organizer.php:95
+msgid "Organizer type for create event's organizers"
+msgstr "Järjestäjän tyyppi tapahtuman järjestäjille"
+
+#: ../post-types/post_type_chronosly_organizer.php:280
+msgid "Organizer details"
+msgstr "Järjestäjän tiedot"
+
+#: ../post-types/post_type_chronosly_organizer.php:337 ..
+#: classes/chronosly_settings.php:645 ../classes/chronosly_settings.php:745
+msgid "All organizers list view"
+msgstr "Järjestäjien kaikki tapahtumat"
+
+#: ../post-types/post_type_chronosly_organizer.php:338 ..
+#: classes/chronosly_settings.php:646 ../classes/chronosly_settings.php:746
+msgid "Single organizer view"
+msgstr "Järjestäjän tapahtumat"
+
+#: ../post-types/post_type_chronosly_calendar.php:74
+msgid "Calendars"
+msgstr "Kalenterit"
+
+#: ../post-types/post_type_chronosly_calendar.php:75 ../classes/chronosly_widgets.
+#: php:197 ../metaboxes/settings/settings.php:261 ../metaboxes/settings/settings.
+#: php:303
+msgid "Calendar"
+msgstr "Kalenteri"
+
+#: ../post-types/post_type_chronosly_calendar.php:76 ../post-
+#: types/post_type_chronosly_calendar.php:77
+msgid "Add new calendar"
+msgstr "Lisää kalenteri"
+
+#: ../post-types/post_type_chronosly_calendar.php:78
+msgid "View calendar"
+msgstr "Näytä kalenteri"
+
+#: ../post-types/post_type_chronosly_calendar.php:79
+msgid "Search calendar"
+msgstr "Etsi kalentereista"
+
+#: ../post-types/post_type_chronosly_calendar.php:107
+msgid "Calendar type for create event calendar"
+msgstr "Kalenterityyppi tapatumakalentereille"
+
+#: ../post-types/post_type_chronosly_category.php:48 ../templates/archive-
+#: category-chronosly.php:43 ../addons/import_and_export/init.php:477 ..
+#: classes/chronosly_dad_elements.php:5389 ../metaboxes/settings/support.php:14 .
+#: ./metaboxes/settings/welcome.php:74 ../metaboxes/settings/welcome.php:121
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: ../post-types/post_type_chronosly_category.php:125
+msgid "Event Categories"
+msgstr "Kategoriat"
+
+#: ../post-types/post_type_chronosly_category.php:126
+msgid "Event Category"
+msgstr "Kategoria"
+
+#: ../post-types/post_type_chronosly_category.php:127 ../post-
+#: types/post_type_chronosly_category.php:128
+msgid "Add new category"
+msgstr "Lisää kategoria"
+
+#: ../post-types/post_type_chronosly_category.php:129
+msgid "View category"
+msgstr "Näytä kategoria"
+
+#: ../post-types/post_type_chronosly_category.php:267
+msgid "Chronosly Configuration"
+msgstr "Chronosly asetukset"
+
+#: ../post-types/post_type_chronosly_category.php:302 ..
+#: classes/chronosly_settings.php:649 ../classes/chronosly_settings.php:749
+msgid "All categories list view"
+msgstr "Kaikkien kategorioiden tapahtumat"
+
+#: ../post-types/post_type_chronosly_category.php:303 ..
+#: classes/chronosly_settings.php:650 ../classes/chronosly_settings.php:750
+msgid "Single category view"
+msgstr "Kategorian tapahtumat"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "January"
+msgstr "Tammikuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "February"
+msgstr "Helmikuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "March"
+msgstr "Marraskuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "April"
+msgstr "Huhtikuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "May"
+msgstr "Toukokuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "June"
+msgstr "Kesäkuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "July"
+msgstr "Heinäkuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "August"
+msgstr "Elokuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "September"
+msgstr "Syyskuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "October"
+msgstr "Lokakuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "November"
+msgstr "Marraskuu"
+
+#: ../templates/calendar-chronosly.php:109 ../templates/archive-chronosly.php:58 .
+#: ./addons/filter_and_sort/init.php:1013 ../addons/filter_and_sort/init.php:1058
+#: ../addons/filter_and_sort/init.php:1206 ../addons/filter_and_sort/init.php:1221
+msgid "December"
+msgstr "Joulukuu"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Sun"
+msgstr "Su"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Mon"
+msgstr "Ma"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Tue"
+msgstr "Ti"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Wed"
+msgstr "Ke"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Thu"
+msgstr "To"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Fri"
+msgstr "Pe"
+
+#: ../templates/calendar-chronosly.php:110 ../templates/calendar-chronosly.php:111
+msgid "Sat"
+msgstr "La"
+
+#: ../templates/calendar-chronosly.php:135 ../templates/calendar-chronosly.php:
+#: 154 ../templates/calendar-chronosly.php:256 ../templates/calendar-chronosly.
+#: php:276 ../templates/calendar-chronosly.php:356 ../templates/calendar-
+#: chronosly.php:372
+msgid "today"
+msgstr "tänään"
+
+#: ../templates/calendar-chronosly.php:137 ../templates/calendar-chronosly.php:
+#: 156 ../templates/calendar-chronosly.php:259 ../templates/calendar-chronosly.
+#: php:279 ../templates/calendar-chronosly.php:358 ../templates/calendar-
+#: chronosly.php:374
+msgid "month"
+msgstr "kuukausi"
+
+#: ../templates/calendar-chronosly.php:138 ../templates/calendar-chronosly.php:
+#: 157 ../templates/calendar-chronosly.php:261 ../templates/calendar-chronosly.
+#: php:281 ../templates/calendar-chronosly.php:359 ../templates/calendar-
+#: chronosly.php:375
+msgid "week"
+msgstr "Viikko"
+
+#: ../templates/calendar-chronosly.php:228 ../classes/chronosly_mk_templates.php:93
+msgid "view"
+msgstr "Näytä"
+
+#: ../templates/calendar-chronosly.php:320
+msgid "view+"
+msgstr "Näytä+"
+
+#: ../templates/calendar-chronosly.php:323
+msgid "close"
+msgstr "Sulje"
+
+#: ../templates/single-chronosly.php:69 ../templates/archive-category-chronosly.
+#: php:136 ../templates/single-tag-chronosly.php:94 ../templates/single-places-
+#: chronosly.php:110 ../templates/archive-places-chronosly.php:151 ..
+#: templates/single-organizer-chronosly.php:118 ../templates/archive-organizer-
+#: chronosly.php:151 ../templates/single-category-chronosly.php:130 ..
+#: templates/archive-chronosly.php:209
+msgid "No events found"
+msgstr "Ei tapahtumia"
+
+#: ../templates/archive-category-chronosly.php:121 ../addons/filter_and_sort/init.
+#: php:511 ../addons/filter_and_sort/init.php:572 ../addons/filter_and_sort/init.
+#: php:605 ../addons/filter_and_sort/init.php:633 ../addons/filter_and_sort/init.
+#: php:666 ../addons/filter_and_sort/init.php:699 ../addons/filter_and_sort/init.
+#: php:733 ../addons/filter_and_sort/init.php:768
+msgid "More"
+msgstr "Lisää"
+
+#: ../templates/archive-category-chronosly.php:121
+msgid "events"
+msgstr "tapahtumia"
+
+#: ../templates/archive-category-chronosly.php:127 ../templates/single-tag-
+#: chronosly.php:82 ../templates/single-tag-chronosly.php:83 ../templates/archive-
+#: places-chronosly.php:143 ../templates/archive-organizer-chronosly.php:144 ..
+#: templates/single-category-chronosly.php:113 ../templates/single-category-
+#: chronosly.php:120 ../templates/archive-chronosly.php:195 ../templates/archive-
+#: chronosly.php:202
+msgid "Previous page"
+msgstr "Edellinen"
+
+#: ../templates/archive-category-chronosly.php:128 ../templates/single-tag-
+#: chronosly.php:86 ../templates/archive-places-chronosly.php:145 ..
+#: templates/archive-organizer-chronosly.php:146 ../templates/single-category-
+#: chronosly.php:114 ../templates/single-category-chronosly.php:121 ..
+#: templates/archive-chronosly.php:196 ../templates/archive-chronosly.php:203
+msgid "Next page"
+msgstr "Seuraava"
+
+#: ../templates/single-places-chronosly.php:27 ../templates/single-places-
+#: chronosly.php:29 ../metaboxes/settings/settings.php:291
+msgid "Places list"
+msgstr "Paikkalista"
+
+#: ../templates/single-organizer-chronosly.php:34 ../templates/single-organizer-
+#: chronosly.php:37 ../metaboxes/settings/settings.php:281
+msgid "Organizers list"
+msgstr "Järjestäjälista"
+
+#: ../templates/single-category-chronosly.php:46
+msgid "Category list"
+msgstr "Kategorialista"
+
+#: ../templates/archive-chronosly.php:119
+msgid "Upcoming Events"
+msgstr "Tulevat tapahtumat"
+
+#: ../addons/social_media_share/init.php:125
+msgid "Default settings"
+msgstr "Oletusasetukset"
+
+#: ../addons/social_media_share/init.php:322
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: ../addons/social_media_share/init.php:363
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: ../addons/social_media_share/init.php:397
+msgid "Share on Linkdin"
+msgstr "Jaa Linkedinissä"
+
+#: ../addons/social_media_share/init.php:434
+msgid "Share on Google+"
+msgstr "Jaa Google+:ssa"
+
+#: ../addons/social_media_share/init.php:472
+msgid "Share on Pinterest"
+msgstr "Jaa Pinteristissä"
+
+#: ../addons/social_media_share/init.php:510
+msgid "Add to your calendar"
+msgstr ""
+
+#: ../addons/social_media_share/init.php:541
+msgid "Social Media"
+msgstr "Sosiaalinen media"
+
+#: ../addons/social_media_share/init.php:584
+msgid "Social Media settings"
+msgstr "Sosiaalisen median asetukset"
+
+#: ../addons/social_media_share/init.php:597 ../metaboxes/settings/support.php:52
+#: ../metaboxes/settings/welcome.php:90 ../metaboxes/settings/welcome.php:154
+msgid "Templates"
+msgstr "Sivupohjat"
+
+#: ../addons/social_media_share/init.php:598
+msgid "Update all templates to include this addon"
+msgstr "Päivitä kaikki sivupohjat tälle lisäosalle"
+
+#: ../addons/social_media_share/init.php:600
+msgid "Update All"
+msgstr "Päivitä kaikki"
+
+#: ../addons/social_media_share/init.php:602
+msgid ""
+"You are going to update all templates to insert this addon.\n"
+"Remember that custom edited templates will not be updated.\n"
+"Check all changes and edit if is needed in the next page."
+msgstr ""
+"Aiot päivittää kaikki sivupohjat lisäosalle\n"
+"Huomaa, että mukautettuja sivupohjia ei päivitetä.\n"
+"Tarkista kaikki muutokset ja muokkaa tietoja tarvittaessa."
+
+#: ../addons/social_media_share/init.php:605
+msgid ""
+"Use this option to Manual Update templates when they don't include Social "
+"Media Share buttons."
+msgstr ""
+"Käytä tätä asetusta, jos haluat päivttää käsin sivupohjat, jotka eivät tue "
+"jakamista sosiaalisessa mediassa."
+
+#: ../addons/social_media_share/init.php:606
+msgid ""
+"This will not work with custom templates, but you can use Drag and Drop "
+"system. Find further information about how to use <a target='_blank' "
+"href='http://www.chronosly.com/faq/addons/social-media-share-addon/'>D&D "
+"system and Social media addon</a>."
+msgstr ""
+"Tämä ei toimi mukautettujen sivupohjien kanssa, mutta voit käyttää Raahaa & "
+"Pudota -työkalua. Lisätietoja: <a target='_blank' href='http://www.chronosly."
+"com/faq/addons/social-media-share-addon/'>D&D system and Social media "
+"addon</a>."
+
+#: ../addons/social_media_share/init.php:607
+msgid ""
+"For single edited templates (previously edited directly inside the events "
+"page) you can also update template using the new Drag and Drop 'Share box' "
+"button in Template Editor."
+msgstr ""
+"Yksittäiset sivupohjat voidaan päivittää käyttämällä Raahaa & Pudota -"
+"jakolaatikkoa sivupohjan muokkaimessa."
+
+#: ../addons/social_media_share/init.php:611
+msgid "Default Settings"
+msgstr "Oletusasetukset"
+
+#: ../addons/social_media_share/init.php:612
+msgid "Facebook button enabled"
+msgstr "Facebook -nappi käytössä"
+
+#: ../addons/social_media_share/init.php:613
+msgid "Twitter button enabled"
+msgstr "Twitter -nappi käytössä"
+
+#: ../addons/social_media_share/init.php:614
+msgid "Twitter content"
+msgstr "Twitter sisältö"
+
+#: ../addons/social_media_share/init.php:615
+msgid ""
+"Set twitter share text: use #content to show EXCERPT and #title to display "
+"EVENT title"
+msgstr ""
+"Twitter koodit: #content - näyttää tapahtuman otteen ja #title - näyttää "
+"tapahtuman otsikon."
+
+#: ../addons/social_media_share/init.php:615
+msgid ""
+"<a target='_blanck' href='http://www.chronosly.com/faq/addons/social-media-"
+"share-addon/'>More info</a>"
+msgstr ""
+"<a target='_blanck' href='http://www.chronosly.com/faq/addons/social-media-"
+"share-addon/'>Lisää tietoa </a>"
+
+#: ../addons/social_media_share/init.php:616
+msgid "Linkdin button enabled"
+msgstr "Linkedin -nappi käytössä"
+
+#: ../addons/social_media_share/init.php:617
+msgid "Goggle+ button enabled"
+msgstr "Google+ -nappi näytössä"
+
+#: ../addons/social_media_share/init.php:618
+msgid "Pinterest button enabled"
+msgstr "Pinterest -nappi käytössä"
+
+#: ../addons/social_media_share/init.php:619
+msgid "Add to your calendar button enabled"
+msgstr ""
+
+#: ../addons/social_media_share/init.php:622
+msgid "Bit.ly url shorten"
+msgstr "Bit.ly url lyhennys"
+
+#: ../addons/social_media_share/init.php:623
+msgid "Bit.ly user name"
+msgstr "Bit.ly käyttäjänimi"
+
+#: ../addons/social_media_share/init.php:624
+msgid "Bit.ly api key"
+msgstr "Bit.ly API avain"
+
+#: ../addons/social_media_share/init.php:625
+msgid ""
+"Find your <a target='_blanck' href='https://bitly.com/a/your_api_key'>bitly "
+"api key</a>"
+msgstr ""
+"Etsi oma <a target='_blanck' href='https://bitly.com/a/your_api_key'>bitly "
+"api avaimesi</a>"
+
+#: ../addons/social_media_share/init.php:628 ..
+#: addons/frontend_event_submission/init.php:231 ../addons/filter_and_sort/init.
+#: php:1535 ../addons/import_and_export/init.php:1554
+msgid "License & Updates"
+msgstr "Käyttöoikeudet & Päivitykset"
+
+#: ../addons/social_media_share/init.php:629 ..
+#: addons/frontend_event_submission/init.php:232 ../addons/filter_and_sort/init.
+#: php:1536 ../addons/import_and_export/init.php:1555
+msgid "License key for updates"
+msgstr "Lisenssiavain päivityksille"
+
+#: ../addons/social_media_share/init.php:630 ..
+#: addons/frontend_event_submission/init.php:233 ../addons/filter_and_sort/init.
+#: php:1537 ../addons/import_and_export/init.php:1556
+msgid ""
+"provide the license sent to your email for alowing future updates of this "
+"addon"
+msgstr "Anna toimitettu lisenssiavain, jotta voit vastaanottaa päivityksiä lisäosalle"
+
+#: ../addons/social_media_share/init.php:631 ..
+#: addons/frontend_event_submission/init.php:234 ../addons/filter_and_sort/init.
+#: php:1538 ../addons/import_and_export/init.php:1557
+msgid "Enable auto update"
+msgstr "Salli automaattinen päivitys"
+
+#: ../addons/frontend_event_submission/init.php:94
+msgid "Frontend Event Submission Settings"
+msgstr "Käyttäjän lisäämien tapahtumien asetukset"
+
+#: ../addons/frontend_event_submission/init.php:108
+msgid "Form Settings"
+msgstr "Kaavakkeen asetukset"
+
+#: ../addons/frontend_event_submission/init.php:109
+msgid "Configure the fields to show on form"
+msgstr "Säädä kentät näkymään kaavakkeessa"
+
+#: ../addons/frontend_event_submission/init.php:109
+msgid "Event title and date are always required"
+msgstr "Tapahtuman nimi ja päivämäärä vaaditaan aina"
+
+#: ../addons/frontend_event_submission/init.php:110
+msgid "Use the shortcode"
+msgstr "Käytä koodipätkää"
+
+#: ../addons/frontend_event_submission/init.php:110
+msgid "where you want to display the form."
+msgstr "siellä missä haluat näyttää kaavakkeen."
+
+#: ../addons/frontend_event_submission/init.php:127
+msgid "Who can send events?"
+msgstr "Ketkä voivat luoda tapahtumia?"
+
+#: ../addons/frontend_event_submission/init.php:130
+msgid "No one"
+msgstr "Ei kukaan"
+
+#: ../addons/frontend_event_submission/init.php:130
+msgid "Registered only"
+msgstr "Rekisteröidyt käyttäjät"
+
+#: ../addons/frontend_event_submission/init.php:130
+msgid "All, name and mail required"
+msgstr "Kaikki, nimet ja sähköpostit vaaditaan"
+
+#: ../addons/frontend_event_submission/init.php:142
+msgid "Default author id"
+msgstr ""
+
+#: ../addons/frontend_event_submission/init.php:143
+msgid "Really Simple CAPTCHA"
+msgstr ""
+
+#: ../addons/frontend_event_submission/init.php:144
+msgid ""
+"You need to install free plugin <a href='https://wordpress."
+"org/plugins/really-simple-captcha/' target='_blank'>Really Simple CAPTCHA</a>"
+msgstr ""
+
+#: ../addons/frontend_event_submission/init.php:147 ..
+#: addons/frontend_event_submission/init.php:625 ..
+#: classes/chronosly_dad_elements.php:1683
+msgid "Event description"
+msgstr "Tapahtuman lyhyt kuvaus"
+
+#: ../addons/frontend_event_submission/init.php:148
+msgid "Event image"
+msgstr "Tapahtuman kuva"
+
+#: ../addons/frontend_event_submission/init.php:149
+msgid "12 hours time format"
+msgstr "12-tuntijärjestelmä"
+
+#: ../addons/frontend_event_submission/init.php:150
+msgid "Event category"
+msgstr "Tapahtuman kategoria"
+
+#: ../addons/frontend_event_submission/init.php:153 ..
+#: addons/frontend_event_submission/init.php:167 ..
+#: addons/frontend_event_submission/init.php:189
+msgid "Hidde"
+msgstr "Piilota"
+
+#: ../addons/frontend_event_submission/init.php:153
+msgid "Show categories already created"
+msgstr "Näytä luodut kategoriat"
+
+#: ../addons/frontend_event_submission/init.php:153
+msgid "Show categories and allow to create a new one"
+msgstr "Näytä kategoriat ja salli uuden luominen"
+
+#: ../addons/frontend_event_submission/init.php:164
+msgid "Event organizer"
+msgstr "Tapahtuman järjestäjä"
+
+#: ../addons/frontend_event_submission/init.php:167
+msgid "Show organizers already created"
+msgstr "Näytä järjestäjät"
+
+#: ../addons/frontend_event_submission/init.php:167
+msgid "Show organizers and allow to create a new one"
+msgstr "Näytä järjestäjät ja salli uusien luonti"
+
+#: ../addons/frontend_event_submission/init.php:179
+msgid "Extra fields to show on organizer creation"
+msgstr "Lisäkentät järjestäjien luomiseen"
+
+#: ../addons/frontend_event_submission/init.php:180
+msgid "Organizer description"
+msgstr "Järjestäjän kuvaus"
+
+#: ../addons/frontend_event_submission/init.php:181
+msgid "Organizer image"
+msgstr "Järjestäjän kuva"
+
+#: ../addons/frontend_event_submission/init.php:182
+msgid "Organizer phone"
+msgstr "Järjestäjän puhelinnumero"
+
+#: ../addons/frontend_event_submission/init.php:183
+msgid "Organizer mail"
+msgstr "Järjestäjän email"
+
+#: ../addons/frontend_event_submission/init.php:184
+msgid "Organizer web"
+msgstr "Järjestäjän nettisivut"
+
+#: ../addons/frontend_event_submission/init.php:186
+msgid "Event place"
+msgstr "Tapahtumapaikka"
+
+#: ../addons/frontend_event_submission/init.php:189
+msgid "Show places already created"
+msgstr "Näytä paikat"
+
+#: ../addons/frontend_event_submission/init.php:189
+msgid "Show places and allow to create a new one"
+msgstr "Näytä paikat ja salli uusien luonti"
+
+#: ../addons/frontend_event_submission/init.php:201
+msgid "Extra fields to show on place creation"
+msgstr "Lisäkentät paikkojen luomiseen"
+
+#: ../addons/frontend_event_submission/init.php:202
+msgid "Place description"
+msgstr "Paikan kuvaus"
+
+#: ../addons/frontend_event_submission/init.php:203
+msgid "Place image"
+msgstr "Paikan kuva"
+
+#: ../addons/frontend_event_submission/init.php:204
+msgid "Place address"
+msgstr "Paikan osoite"
+
+#: ../addons/frontend_event_submission/init.php:205
+msgid "Place city"
+msgstr "Paikan kaupunki"
+
+#: ../addons/frontend_event_submission/init.php:206
+msgid "Place country"
+msgstr "Paikan maa"
+
+#: ../addons/frontend_event_submission/init.php:207
+msgid "Place state"
+msgstr "Paikan osavaltio"
+
+#: ../addons/frontend_event_submission/init.php:208 ..
+#: addons/filter_and_sort/init.php:1448 ../addons/filter_and_sort/init.php:1469 .
+#: ./addons/filter_and_sort/init.php:1490 ../addons/filter_and_sort/init.php:1511
+#: ../addons/filter_and_sort/init.php:1530
+msgid "Place Postal Code"
+msgstr "Paikan postinumero"
+
+#: ../addons/frontend_event_submission/init.php:209
+msgid "Place phone"
+msgstr "Paikan puhelinnumero"
+
+#: ../addons/frontend_event_submission/init.php:210
+msgid "Place mail"
+msgstr "Paikan email"
+
+#: ../addons/frontend_event_submission/init.php:211
+msgid "Place web"
+msgstr "Paikan sivut"
+
+#: ../addons/frontend_event_submission/init.php:217
+msgid "Mail Settings"
+msgstr "Sähköpostiasetukset"
+
+#: ../addons/frontend_event_submission/init.php:218
+msgid "Configure the mail recibed when one user submits an envent"
+msgstr "Säädä käyttäjien lisäämiin tapahtumiin liittyviä sähköpostiasetuksia"
+
+#: ../addons/frontend_event_submission/init.php:219
+msgid "From name"
+msgstr "Lähettäjä"
+
+#: ../addons/frontend_event_submission/init.php:220
+msgid "From email"
+msgstr "Sähköposti"
+
+#: ../addons/frontend_event_submission/init.php:221
+msgid "To (comma separated emails)"
+msgstr "Vastaanottaja"
+
+#: ../addons/frontend_event_submission/init.php:222
+msgid "Subject"
+msgstr "Aihe"
+
+#: ../addons/frontend_event_submission/init.php:223
+msgid "Mail content"
+msgstr "Viestin sisältö"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "Preconfigured mail is sent when you let it blank"
+msgstr "Tyhjät viestit lähetetään ennaltamääritellyssä muodossa"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "Allowed tags are:"
+msgstr "Sallitut avainsanat: "
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "#user : username and email"
+msgstr "#user: käyttäjänimi ja sähköpostiosoite"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "#event-link : admin event link to validate"
+msgstr "#event-link : tapatuman hyväksymislinkki"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "#category-link : admin category link to validate"
+msgstr "#category-link : kategorian hyväksymislinkki"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "#organizer-link : admin organizer link to validate"
+msgstr "#organizer-link : järjestäjän hyväksymislinkki"
+
+#: ../addons/frontend_event_submission/init.php:224
+msgid "#place-link : admin place link to validate"
+msgstr "#place-link : paikan hyväksymislinkki"
+
+#: ../addons/frontend_event_submission/init.php:314
+msgid "Incorrect validation code"
+msgstr ""
+
+#: ../addons/frontend_event_submission/init.php:322 ..
+#: addons/frontend_event_submission/init.php:612
+msgid "You must login to send an event"
+msgstr "Kirjaudu sisään ennen tapahtuman lisäystä"
+
+#: ../addons/frontend_event_submission/init.php:328
+msgid "You must login or provide user and mail to send an event"
+msgstr ""
+"Kirjaudu sisään tai anna käyttäjänimi sekä sähköpostiosoite, jotta voit "
+"lisätä tapahtuman"
+
+#: ../addons/frontend_event_submission/init.php:338
+msgid "Event title is required"
+msgstr "Tapahtumalle on annettava nimi"
+
+#: ../addons/frontend_event_submission/init.php:341
+msgid "Event date is required"
+msgstr "Tapahtumalle on annettava päivämäärä"
+
+#: ../addons/frontend_event_submission/init.php:394
+msgid "An error ocurred sending your event. Please try again."
+msgstr "Jotain meni mönkään. Yritä uudestaan."
+
+#: ../addons/frontend_event_submission/init.php:437
+msgid "There was an error uploading your event image."
+msgstr "Tapahtuman kuvan latauksessa tapahtui virhe."
+
+#: ../addons/frontend_event_submission/init.php:463
+msgid "Organizer was not created."
+msgstr "Järjestäjää ei voitu luoda."
+
+#: ../addons/frontend_event_submission/init.php:483
+msgid "There was an error uploading your organizer image."
+msgstr "Järjestäjäkuvan siirrossa tapahtui virhe."
+
+#: ../addons/frontend_event_submission/init.php:516
+msgid "Place was not created."
+msgstr "Paikkaa ei voitu luoda."
+
+#: ../addons/frontend_event_submission/init.php:534
+msgid "There was an error uploading your place image."
+msgstr "Paikkakuvan siirrossa tapahtui virhe."
+
+#: ../addons/frontend_event_submission/init.php:551
+msgid "Your event has been sent and is awaiting approval"
+msgstr "Tapahtuma on luotu ja odottaa hyväksyntää"
+
+#: ../addons/frontend_event_submission/init.php:568
+msgid "New event submitted"
+msgstr "Uusi tapahtuma lähetetty"
+
+#: ../addons/frontend_event_submission/init.php:577
+msgid "has sent a new event"
+msgstr "loi uuden tapahtuman"
+
+#: ../addons/frontend_event_submission/init.php:579
+msgid ""
+"This event has been created with new organizers, places and/or categories, "
+"so these ones must be approved before event validation to link within the "
+"event."
+msgstr ""
+"Tapahtumalla on ennalta tuntematon järjestäjä, paikka ja/tai kategoria, "
+"joten tiedot tarkistetaan ennen tapahtuman hyväksyntää."
+
+#: ../addons/frontend_event_submission/init.php:582 ..
+#: addons/frontend_event_submission/init.php:702 ../addons/filter_and_sort/init.
+#: php:527 ../addons/filter_and_sort/init.php:913 ../addons/filter_and_sort/init.
+#: php:1442 ../addons/filter_and_sort/init.php:1484 ..
+#: addons/filter_and_sort/init.php:1524 ../classes/chronosly_settings.php:734 ..
+#: metaboxes/settings/settings.php:263
+msgid "Category"
+msgstr "Kategoria"
+
+#: ../addons/frontend_event_submission/init.php:582 ..
+#: addons/frontend_event_submission/init.php:583 ..
+#: addons/frontend_event_submission/init.php:584
+msgid "is waiting for validation"
+msgstr "odottaa hyväksyntää."
+
+#: ../addons/frontend_event_submission/init.php:586
+msgid "When new organizers, places and/or categories are validated, "
+msgstr "Kun järjestäjät, paikat ja kategoriat on hyväksytty"
+
+#: ../addons/frontend_event_submission/init.php:589
+msgid "You can approve event"
+msgstr "voit hyväksyä tapahtuman."
+
+#: ../addons/frontend_event_submission/init.php:618
+msgid "Your name"
+msgstr "Nimesi"
+
+#: ../addons/frontend_event_submission/init.php:619
+msgid "Your email"
+msgstr "Sähköpostiosoitteesi"
+
+#: ../addons/frontend_event_submission/init.php:624 ..
+#: classes/chronosly_dad_elements.php:1610
+msgid "Event title"
+msgstr "Tapahtuman nimi"
+
+#: ../addons/frontend_event_submission/init.php:626 ..
+#: addons/frontend_event_submission/init.php:749 ..
+#: addons/frontend_event_submission/init.php:784 ..
+#: addons/import_and_export/init.php:477 ../addons/import_and_export/init.php:
+#: 590 ../addons/import_and_export/init.php:630 ../classes/chronosly_dad_elements.
+#: php:3654 ../classes/chronosly_templates.php:1152
+msgid "Image"
+msgstr "Kuva"
+
+#: ../addons/frontend_event_submission/init.php:643
+msgid "Validation code"
+msgstr ""
+
+#: ../addons/frontend_event_submission/init.php:651
+msgid "Submit event"
+msgstr "Lähetä tapahtuma"
+
+#: ../addons/frontend_event_submission/init.php:658
+msgid "Dates"
+msgstr "Päivämäärät"
+
+#: ../addons/frontend_event_submission/init.php:666 ..
+#: addons/frontend_event_submission/init.php:676
+msgid "AM"
+msgstr "AM"
+
+#: ../addons/frontend_event_submission/init.php:666 ..
+#: addons/frontend_event_submission/init.php:676
+msgid "PM"
+msgstr "PM"
+
+#: ../addons/frontend_event_submission/init.php:682 ..
+#: classes/chronosly_dad_elements.php:4177
+msgid "Ticket"
+msgstr "Lippu"
+
+#: ../addons/frontend_event_submission/init.php:684 ..
+#: addons/import_and_export/init.php:476 ../addons/import_and_export/init.php:
+#: 590 ../addons/import_and_export/init.php:630 ..
+#: metaboxes/chronosly_tickets_metabox.php:11
+msgid "Title"
+msgstr "Lipputyypin nimi"
+
+#: ../addons/frontend_event_submission/init.php:684 ..
+#: classes/chronosly_dad_elements.php:4179 ../classes/chronosly_dad_elements.php:
+#: 5002 ../metaboxes/chronosly_tickets_metabox.php:11
+msgid "Capacity"
+msgstr "Lippuja myynnissä"
+
+#: ../addons/frontend_event_submission/init.php:684 ..
+#: metaboxes/chronosly_tickets_metabox.php:11
+msgid "Min."
+msgstr "Min."
+
+#: ../addons/frontend_event_submission/init.php:684 ..
+#: metaboxes/chronosly_tickets_metabox.php:11
+msgid "Max."
+msgstr "Max."
+
+#: ../addons/frontend_event_submission/init.php:684 ..
+#: metaboxes/chronosly_tickets_metabox.php:11
+msgid "Link"
+msgstr "Linkki"
+
+#: ../addons/frontend_event_submission/init.php:695
+msgid "notes"
+msgstr "huomautukset"
+
+#: ../addons/frontend_event_submission/init.php:717
+msgid "Add new Category"
+msgstr "Lisää kategoria"
+
+#: ../addons/frontend_event_submission/init.php:719
+msgid "Category name"
+msgstr "Kategoria"
+
+#: ../addons/frontend_event_submission/init.php:744 ..
+#: metaboxes/chronosly_organizer_metabox.php:13 ..
+#: metaboxes/chronosly_organizer_metabox.php:23
+msgid "Add new Organizer"
+msgstr "Lisää uusi Järjestäjä"
+
+#: ../addons/frontend_event_submission/init.php:746 ..
+#: addons/frontend_event_submission/init.php:782 ..
+#: classes/chronosly_dad_elements.php:2774 ../classes/chronosly_dad_elements.php:
+#: 3254 ../classes/chronosly_dad_elements.php:4889 ..
+#: metaboxes/chronosly_places_metabox.php:17 ..
+#: metaboxes/chronosly_organizer_metabox.php:15 ..
+#: metaboxes/marketplace/templates.php:24 ../metaboxes/marketplace/addons.php:20
+msgid "Name"
+msgstr "Nimi"
+
+#: ../addons/frontend_event_submission/init.php:748 ..
+#: addons/frontend_event_submission/init.php:783 ..
+#: addons/import_and_export/init.php:476 ../addons/import_and_export/init.php:
+#: 590 ../addons/import_and_export/init.php:630 ../classes/chronosly_dad_elements.
+#: php:2852 ../classes/chronosly_dad_elements.php:3332
+msgid "Description"
+msgstr "Kuvaus"
+
+#: ../addons/frontend_event_submission/init.php:751 ..
+#: addons/frontend_event_submission/init.php:791 ..
+#: addons/import_and_export/init.php:591 ../addons/import_and_export/init.php:
+#: 633 ../classes/chronosly_dad_elements.php:3005 ..
+#: classes/chronosly_dad_elements.php:3486 ..
+#: metaboxes/chronosly_places_details_metabox.php:8 ..
+#: metaboxes/chronosly_places_metabox.php:25 ..
+#: metaboxes/chronosly_organizer_metabox.php:19 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:2
+msgid "Phone"
+msgstr "Puhelin"
+
+#: ../addons/frontend_event_submission/init.php:752 ..
+#: addons/frontend_event_submission/init.php:792 ..
+#: addons/import_and_export/init.php:591 ../addons/import_and_export/init.php:
+#: 633 ../metaboxes/chronosly_places_details_metabox.php:9 ..
+#: metaboxes/chronosly_places_metabox.php:26 ..
+#: metaboxes/chronosly_organizer_metabox.php:20 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:3
+msgid "Mail"
+msgstr "Posti"
+
+#: ../addons/frontend_event_submission/init.php:753 ..
+#: addons/frontend_event_submission/init.php:793 ..
+#: addons/import_and_export/init.php:591 ../addons/import_and_export/init.php:
+#: 633 ../classes/chronosly_dad_elements.php:3115 ..
+#: classes/chronosly_dad_elements.php:3596 ../classes/chronosly_dad_elements.php:
+#: 3634 ../metaboxes/chronosly_places_details_metabox.php:10 ..
+#: metaboxes/chronosly_places_metabox.php:27 ..
+#: metaboxes/chronosly_organizer_metabox.php:21 ..
+#: metaboxes/chronosly_organizer_details_metabox.php:4
+msgid "Web"
+msgstr "Kotisivu"
+
+#: ../addons/frontend_event_submission/init.php:780 ..
+#: metaboxes/chronosly_places_metabox.php:15 ..
+#: metaboxes/chronosly_places_metabox.php:29
+msgid "Add new Place"
+msgstr "Lisää uusi Paikka"
+
+#: ../addons/frontend_event_submission/init.php:785 ..
+#: addons/filter_and_sort/init.php:788 ../addons/import_and_export/init.php:631 .
+#: ./classes/chronosly_dad_elements.php:4024 ..
+#: metaboxes/chronosly_places_details_metabox.php:2 ..
+#: metaboxes/chronosly_places_metabox.php:20
+msgid "Address"
+msgstr "Osoite"
+
+#: ../addons/frontend_event_submission/init.php:787 ..
+#: addons/filter_and_sort/init.php:719 ../addons/import_and_export/init.php:631 .
+#: ./classes/chronosly_dad_elements.php:3789 ..
+#: metaboxes/chronosly_places_details_metabox.php:3 ..
+#: metaboxes/chronosly_places_metabox.php:21
+msgid "City"
+msgstr "Kaupunki"
+
+#: ../addons/frontend_event_submission/init.php:788 ..
+#: addons/filter_and_sort/init.php:685 ../addons/import_and_export/init.php:631 .
+#: ./metaboxes/chronosly_places_details_metabox.php:4 ..
+#: metaboxes/chronosly_places_metabox.php:22
+msgid "Country"
+msgstr "Maa"
+
+#: ../addons/frontend_event_submission/init.php:789 ..
+#: addons/filter_and_sort/init.php:652 ../addons/import_and_export/init.php:632 .
+#: ./metaboxes/chronosly_places_details_metabox.php:5 ..
+#: metaboxes/chronosly_places_metabox.php:23
+msgid "State"
+msgstr "Osavaltio"
+
+#: ../addons/frontend_event_submission/init.php:790 ..
+#: addons/filter_and_sort/init.php:754 ../addons/import_and_export/init.php:632 .
+#: ./classes/chronosly_dad_elements.php:3897 ..
+#: metaboxes/chronosly_places_details_metabox.php:6 ..
+#: metaboxes/chronosly_places_metabox.php:24
+msgid "Postal Code"
+msgstr "Postinumero"
+
+#: ../addons/filter_and_sort/init.php:457
+msgid "Find event"
+msgstr "Etsi tapahtuma"
+
+#: ../addons/filter_and_sort/init.php:500 ../addons/filter_and_sort/init.php:1441
+#: ../addons/filter_and_sort/init.php:1457 ../addons/filter_and_sort/init.php:
+#: 1464 ../addons/filter_and_sort/init.php:1483 ../addons/filter_and_sort/init.
+#: php:1504 ../addons/filter_and_sort/init.php:1523
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: ../addons/filter_and_sort/init.php:512 ../addons/filter_and_sort/init.php:573 .
+#: ./addons/filter_and_sort/init.php:606 ../addons/filter_and_sort/init.php:634 ..
+#: addons/filter_and_sort/init.php:667 ../addons/filter_and_sort/init.php:700 ..
+#: addons/filter_and_sort/init.php:734 ../addons/filter_and_sort/init.php:769
+msgid "Less"
+msgstr "Less"
+
+#: ../addons/filter_and_sort/init.php:804 ../addons/filter_and_sort/init.php:1424
+msgid "km"
+msgstr "km"
+
+#: ../addons/filter_and_sort/init.php:805 ../addons/filter_and_sort/init.php:1425
+msgid "miles"
+msgstr "mailia"
+
+#: ../addons/filter_and_sort/init.php:828
+msgid "Required geolocation to find events near you"
+msgstr "Paikannus vaaditaan, jotta voidaan etsiä tapahtumia läheltäsi"
+
+#: ../addons/filter_and_sort/init.php:836
+msgid "Events near to me"
+msgstr "Lähellä olevat tapahtumat"
+
+#: ../addons/filter_and_sort/init.php:928
+msgid "ASC"
+msgstr "Nouseva"
+
+#: ../addons/filter_and_sort/init.php:928
+msgid "DESC"
+msgstr "Laskeva"
+
+#: ../addons/filter_and_sort/init.php:1078
+msgid "Previous day"
+msgstr "Edellinen päivä"
+
+#: ../addons/filter_and_sort/init.php:1078
+msgid "Next day"
+msgstr "Seuraava päivä"
+
+#: ../addons/filter_and_sort/init.php:1386
+msgid "Filter and Sort Settings"
+msgstr "Suodatus ja järjestysasetukset"
+
+#: ../addons/filter_and_sort/init.php:1413
+msgid "Filter Bars Settings"
+msgstr "Suodatinpalkkien asetukset"
+
+#: ../addons/filter_and_sort/init.php:1415
+msgid "Show filter on Events list"
+msgstr "Salli valinnat tapahtumalistalla"
+
+#: ../addons/filter_and_sort/init.php:1416
+msgid "Show filter on Organizers list"
+msgstr "Salli valinnat järjestäjälistalla"
+
+#: ../addons/filter_and_sort/init.php:1417
+msgid "Show filter on Places list"
+msgstr "Salli valinnat paikkalistalla"
+
+#: ../addons/filter_and_sort/init.php:1418
+msgid "Show filter on Categories list"
+msgstr "Salli valinnat kategorialistalla"
+
+#: ../addons/filter_and_sort/init.php:1419
+msgid "Show filter on single Category"
+msgstr "Salli valinnat kategorianäkymässä"
+
+#: ../addons/filter_and_sort/init.php:1420
+msgid "Show filter on Calendar"
+msgstr "Salli valinnat kalenterinäkymässä"
+
+#: ../addons/filter_and_sort/init.php:1421
+msgid "Max Price range"
+msgstr "Hintahaarukka"
+
+#: ../addons/filter_and_sort/init.php:1422
+msgid "Unit of length"
+msgstr "Mittayksikkö"
+
+#: ../addons/filter_and_sort/init.php:1431
+msgid "Events list Filter and Sort"
+msgstr "Tapatumalistan suodatus ja järjestys"
+
+#: ../addons/filter_and_sort/init.php:1432 ../addons/filter_and_sort/init.php:
+#: 1455 ../addons/filter_and_sort/init.php:1462 ../addons/filter_and_sort/init.
+#: php:1476 ../addons/filter_and_sort/init.php:1497 ..
+#: addons/filter_and_sort/init.php:1517
+msgid "Filter"
+msgstr "Suodata"
+
+#: ../addons/filter_and_sort/init.php:1432 ../addons/filter_and_sort/init.php:
+#: 1455 ../addons/filter_and_sort/init.php:1462 ../addons/filter_and_sort/init.
+#: php:1476 ../addons/filter_and_sort/init.php:1497
+msgid "Sort"
+msgstr "Järjestä"
+
+#: ../addons/filter_and_sort/init.php:1434
+msgid "Week/Month/Year navigation"
+msgstr "Viikko/Kuukausi/Vuosi -selaus"
+
+#: ../addons/filter_and_sort/init.php:1435
+msgid ""
+"Show a week,month or year navigation, based on event list settings, to "
+"navigate previous or next."
+msgstr "Näytä viikko, kuukausi tai vuosipohjainen selausvalikko."
+
+#: ../addons/filter_and_sort/init.php:1436 ../addons/filter_and_sort/init.php:
+#: 1478 ../addons/filter_and_sort/init.php:1499 ../addons/filter_and_sort/init.
+#: php:1519
+msgid "Event Name"
+msgstr "Tapahtuman nimi"
+
+#: ../addons/filter_and_sort/init.php:1437 ../addons/filter_and_sort/init.php:
+#: 1450 ../addons/filter_and_sort/init.php:1471 ../addons/filter_and_sort/init.
+#: php:1479 ../addons/filter_and_sort/init.php:1492 ..
+#: addons/filter_and_sort/init.php:1500 ../addons/filter_and_sort/init.php:1513 .
+#: ./addons/filter_and_sort/init.php:1520 ../addons/filter_and_sort/init.php:1532
+msgid "This filter will show as search input box."
+msgstr "Suodatin näkyy tekstikenttänä"
+
+#: ../addons/filter_and_sort/init.php:1438 ../addons/filter_and_sort/init.php:
+#: 1480 ../addons/filter_and_sort/init.php:1501
+msgid "Event Date"
+msgstr "Tapahtuman päivämäärä"
+
+#: ../addons/filter_and_sort/init.php:1439 ../addons/filter_and_sort/init.php:
+#: 1481 ../addons/filter_and_sort/init.php:1502 ../addons/filter_and_sort/init.
+#: php:1521
+msgid "Event Price"
+msgstr "Tapahtuman hinta"
+
+#: ../addons/filter_and_sort/init.php:1440 ../addons/filter_and_sort/init.php:
+#: 1482 ../addons/filter_and_sort/init.php:1503 ../addons/filter_and_sort/init.
+#: php:1522
+msgid "This filter will show as range input box."
+msgstr "Suodatin näkyy tekstikenttänä"
+
+#: ../addons/filter_and_sort/init.php:1444 ../addons/filter_and_sort/init.php:
+#: 1465 ../addons/filter_and_sort/init.php:1486 ../addons/filter_and_sort/init.
+#: php:1507 ../addons/filter_and_sort/init.php:1526
+msgid "Place Name"
+msgstr "Paikan nimi"
+
+#: ../addons/filter_and_sort/init.php:1445 ../addons/filter_and_sort/init.php:
+#: 1466 ../addons/filter_and_sort/init.php:1487 ../addons/filter_and_sort/init.
+#: php:1508 ../addons/filter_and_sort/init.php:1527
+msgid "Place State"
+msgstr "Paikan osavaltio"
+
+#: ../addons/filter_and_sort/init.php:1446 ../addons/filter_and_sort/init.php:
+#: 1467 ../addons/filter_and_sort/init.php:1488 ../addons/filter_and_sort/init.
+#: php:1509 ../addons/filter_and_sort/init.php:1528
+msgid "Place Country"
+msgstr "Paikan maa"
+
+#: ../addons/filter_and_sort/init.php:1447 ../addons/filter_and_sort/init.php:
+#: 1468 ../addons/filter_and_sort/init.php:1489 ../addons/filter_and_sort/init.
+#: php:1510 ../addons/filter_and_sort/init.php:1529
+msgid "Place City"
+msgstr "Paikan kaupunki"
+
+#: ../addons/filter_and_sort/init.php:1449 ../addons/filter_and_sort/init.php:
+#: 1470 ../addons/filter_and_sort/init.php:1491 ../addons/filter_and_sort/init.
+#: php:1512 ../addons/filter_and_sort/init.php:1531
+msgid "Place Address"
+msgstr "Paikan osoite"
+
+#: ../addons/filter_and_sort/init.php:1451 ../addons/filter_and_sort/init.php:
+#: 1472 ../addons/filter_and_sort/init.php:1493 ../addons/filter_and_sort/init.
+#: php:1514 ../addons/filter_and_sort/init.php:1533
+msgid "Place near to user"
+msgstr "Paikka lähellä käyttäjää"
+
+#: ../addons/filter_and_sort/init.php:1454
+msgid "Organizers list Filter and Sort"
+msgstr "Järjestäjälistan suodatus ja järjestys"
+
+#: ../addons/filter_and_sort/init.php:1461
+msgid "Places list Filter and Sort"
+msgstr "Paikkalistan suodatus ja järjestys"
+
+#: ../addons/filter_and_sort/init.php:1475
+msgid "Categories list Filter and Sort"
+msgstr "Kategorialistan suodatus ja järjestys"
+
+#: ../addons/filter_and_sort/init.php:1496
+msgid "Single Category Filter and Sort"
+msgstr "Kategorian suodatus ja järjestys"
+
+#: ../addons/filter_and_sort/init.php:1516
+msgid "Calendar Filter"
+msgstr "Kalenterin suodatus"
+
+#: ../addons/import_and_export/init.php:477 ../addons/import_and_export/init.php:
+#: 591 ../addons/import_and_export/init.php:631 ../classes/chronosly_dad_elements.
+#: php:1950 ../metaboxes/settings/settings.php:7 ../metaboxes/settings/settings.
+#: php:246
+msgid "Url"
+msgstr "URL"
+
+#: ../addons/import_and_export/init.php:478
+msgid "Repeats every"
+msgstr "Toistuu joka"
+
+#: ../addons/import_and_export/init.php:478
+msgid "Repeats end"
+msgstr "Viimeinen tapahtuma"
+
+#: ../addons/import_and_export/init.php:478
+msgid "Is repeated"
+msgstr "toistuu"
+
+#: ../addons/import_and_export/init.php:480 ../addons/import_and_export/init.php:
+#: 480 ../addons/import_and_export/init.php:480 ../addons/import_and_export/init.
+#: php:481 ../addons/import_and_export/init.php:481 ..
+#: addons/import_and_export/init.php:481 ../addons/import_and_export/init.php:
+#: 482 ../addons/import_and_export/init.php:482 ../addons/import_and_export/init.
+#: php:482 ../addons/import_and_export/init.php:483 ..
+#: addons/import_and_export/init.php:483 ../addons/import_and_export/init.php:483
+msgid "Template view"
+msgstr "Sivupohjanäkymä"
+
+#: ../addons/import_and_export/init.php:632
+msgid "Latitude & Longitude"
+msgstr "Leveyttä & Pituutta"
+
+#: ../addons/import_and_export/init.php:1301
+msgid "Import and Export Settings"
+msgstr "Tuo ja vie asetuksia"
+
+#: ../addons/import_and_export/init.php:1318 ../classes/chronosly_mk_addons.php:
+#: 70 ../classes/chronosly_settings.php:309 ../classes/chronosly_settings.php:345
+#: ../classes/chronosly_settings.php:355 ../classes/chronosly_settings.php:381 ..
+#: classes/chronosly_settings.php:497 ../classes/chronosly_settings.php:559 ..
+#: classes/chronosly_settings.php:571 ../classes/chronosly_settings.php:583 ..
+#: classes/chronosly_settings.php:711 ../classes/chronosly_settings.php:762 ..
+#: classes/chronosly_mk_templates.php:70 ../metaboxes/settings/addons-settings.
+#: php:10 ../metaboxes/settings/addons-settings.php:78 ..
+#: metaboxes/settings/addons-settings.php:85
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Oikeutesi eivät riitä tälle sivulle"
+
+#: ../addons/import_and_export/init.php:1369 ../addons/import_and_export/init.php:
+#: 1408
+msgid "Events are succesfully imported to Chronosly"
+msgstr "Tapahtumien tuonti onnistui"
+
+#: ../addons/import_and_export/init.php:1372 ../addons/import_and_export/init.php:
+#: 1411
+msgid "Error ocurred importing events"
+msgstr "Tapahtumien tuonnissa tapahtui virhe"
+
+#: ../addons/import_and_export/init.php:1377
+msgid "The file type that you've uploaded is not ics"
+msgstr "Tiedostotyyppi ei ole ICS"
+
+#: ../addons/import_and_export/init.php:1416 ../addons/import_and_export/init.php:
+#: 1456 ../addons/import_and_export/init.php:1496
+msgid "The file type that you've uploaded is not csv"
+msgstr "Tiedostotyyppi ei ole CSV"
+
+#: ../addons/import_and_export/init.php:1448
+msgid "Organizers are succesfully imported to Chronosly"
+msgstr "Järjestäjien tuonti onnistui"
+
+#: ../addons/import_and_export/init.php:1451
+msgid "Error ocurred importing organizers"
+msgstr "Virhe tapahtui järjestäjien tuonnissa"
+
+#: ../addons/import_and_export/init.php:1488
+msgid "Places are succesfully imported to Chronosly"
+msgstr "Paikkojen tuonti onnistui"
+
+#: ../addons/import_and_export/init.php:1491
+msgid "Error ocurred importing places"
+msgstr "Paikkojen tuonnissa tapahtui virhe"
+
+#: ../addons/import_and_export/init.php:1502
+msgid "Restored succesfully to previous status"
+msgstr "Edellisen tilan palautus onnistui"
+
+#: ../addons/import_and_export/init.php:1503
+msgid "Error ocurred restoring previous status"
+msgstr "Palautuksessa tapahtui virhe"
+
+#: ../addons/import_and_export/init.php:1507 ../addons/import_and_export/init.php:
+#: 1512 ../addons/import_and_export/init.php:1517 ..
+#: addons/import_and_export/init.php:1522 ../addons/import_and_export/init.php:
+#: 1527
+msgid "Import"
+msgstr "Tuo"
+
+#: ../addons/import_and_export/init.php:1509
+msgid "Import events from ics"
+msgstr "Tuo tapahtumia ICS -muodossa"
+
+#: ../addons/import_and_export/init.php:1514
+msgid "Import events from csv"
+msgstr "Tuo tapahtumia CSV -muodossa"
+
+#: ../addons/import_and_export/init.php:1519
+msgid "Import organizers from csv"
+msgstr "Tuo järjestäjiä CSV -muodossa"
+
+#: ../addons/import_and_export/init.php:1524
+msgid "Import places from csv"
+msgstr "Tuo paikkoja CSV -muodossa"
+
+#: ../addons/import_and_export/init.php:1530
+msgid "Restore events since previous import"
+msgstr "Palauta tuontia edeltävät tapahtumat"
+
+#: ../addons/import_and_export/init.php:1534
+msgid "Restore organizers since previous import"
+msgstr "Palauta tuontia edeltävät järjestäjät"
+
+#: ../addons/import_and_export/init.php:1538
+msgid "Restore places since previous import"
+msgstr "Palauta tuontia edeltävät paikat"
+
+#: ../addons/import_and_export/init.php:1542 ../addons/import_and_export/init.php:
+#: 1544 ../addons/import_and_export/init.php:1546 ..
+#: addons/import_and_export/init.php:1548 ../addons/import_and_export/init.php:
+#: 1550
+msgid "Export"
+msgstr "Vie"
+
+#: ../addons/import_and_export/init.php:1543
+msgid "Export events to ics"
+msgstr "Vie tapahtumat ICS -muodossa"
+
+#: ../addons/import_and_export/init.php:1545
+msgid "Export events to csv"
+msgstr "Vie tapahtumat CSV -muodossa"
+
+#: ../addons/import_and_export/init.php:1547
+msgid "Export organizers to csv"
+msgstr "Vie järjestäjät CSV -muodossa"
+
+#: ../addons/import_and_export/init.php:1549
+msgid "Export places to csv"
+msgstr "Vie paikat CSV -muodossa"
+
+#: ../classes/chronosly_mk_addons.php:46 ../classes/chronosly_mk_addons.php:54
+msgid "Download Addons"
+msgstr "Lataa Lisäosia"
+
+#: ../classes/chronosly_mk_addons.php:91 ../classes/chronosly_mk_templates.php:90
+msgid "author"
+msgstr "kirjoittanut"
+
+#: ../classes/chronosly_mk_addons.php:92 ../classes/chronosly_mk_templates.php:91
+msgid "price"
+msgstr "Hinta"
+
+#: ../classes/chronosly_mk_addons.php:93
+msgid "settings"
+msgstr "asetukset"
+
+#: ../classes/chronosly_mk_addons.php:94 ../classes/chronosly_mk_templates.php:92
+msgid "download"
+msgstr "Lataa"
+
+#: ../classes/chronosly_mk_addons.php:95
+msgid "info"
+msgstr "Info"
+
+#: ../classes/chronosly_paint.php:100
+msgid "Text size"
+msgstr "Tekstin koko"
+
+#: ../classes/chronosly_paint.php:135
+msgid "Font family"
+msgstr "Fontti"
+
+#: ../classes/chronosly_paint.php:154
+msgid "Bold"
+msgstr "Lihavoitu"
+
+#: ../classes/chronosly_paint.php:172
+msgid "Uppercase"
+msgstr "ISOLLA"
+
+#: ../classes/chronosly_paint.php:198
+msgid "Align"
+msgstr "Tekstin asettelu"
+
+#: ../classes/chronosly_paint.php:225
+msgid "Decoration"
+msgstr "Muotoilu"
+
+#: ../classes/chronosly_paint.php:247
+msgid "Background color"
+msgstr "Taustaväri"
+
+#: ../classes/chronosly_paint.php:270
+msgid "Round"
+msgstr "Pyöristys"
+
+#: ../classes/chronosly_paint.php:298
+msgid "Padding"
+msgstr "Välistys"
+
+#: ../classes/chronosly_paint.php:323
+msgid "Margin"
+msgstr "Marginaali"
+
+#: ../classes/chronosly_paint.php:345
+msgid "Border color"
+msgstr "Ääriviivan väri"
+
+#: ../classes/chronosly_paint.php:369
+msgid "Border size"
+msgstr "Ääriviivan vahvuus"
+
+#: ../classes/chronosly_paint.php:397
+msgid "Border style"
+msgstr "Ääriviivan tyyli"
+
+#: ../classes/chronosly_paint.php:420 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:188
+msgid "Custom css"
+msgstr "Mukautettu CSS"
+
+#: ../classes/chronosly_extend.php:484
+msgid "Upload Image"
+msgstr "Siirrä Kuva"
+
+#: ../classes/chronosly_extend.php:488
+msgid "Update Gallery"
+msgstr "Päivitä Galleria"
+
+#: ../classes/chronosly_dad_elements.php:30
+msgid "Value"
+msgstr "Arvo"
+
+#: ../classes/chronosly_dad_elements.php:106
+msgid "Text before"
+msgstr "Teksti ennen"
+
+#: ../classes/chronosly_dad_elements.php:185
+msgid "Text after"
+msgstr "Teksti jälkeen"
+
+#: ../classes/chronosly_dad_elements.php:263 ../classes/chronosly_dad_elements.
+#: php:328
+msgid "Custom Text"
+msgstr "Mukautettu teksti"
+
+#: ../classes/chronosly_dad_elements.php:393
+msgid "Readmore link"
+msgstr "Lue lisää -linkki"
+
+#: ../classes/chronosly_dad_elements.php:481
+msgid "Readmore text"
+msgstr "Lue lisää -teksti"
+
+#: ../classes/chronosly_dad_elements.php:564
+msgid "Link action"
+msgstr "Linkin toiminto"
+
+#: ../classes/chronosly_dad_elements.php:723
+msgid "External url"
+msgstr "Ulkoinen URL"
+
+#: ../classes/chronosly_dad_elements.php:780
+msgid "Open in a new page"
+msgstr "Avaa uudella sivulla"
+
+#: ../classes/chronosly_dad_elements.php:849
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: ../classes/chronosly_dad_elements.php:915
+msgid "Max chars to show"
+msgstr "Tekstin maksimipituus merkkeinä"
+
+#: ../classes/chronosly_dad_elements.php:1203
+msgid "Time Format"
+msgstr "Aikaformaatti"
+
+#: ../classes/chronosly_dad_elements.php:1320
+msgid "All day long"
+msgstr "Koko päivän tapahtuma"
+
+#: ../classes/chronosly_dad_elements.php:1568
+msgid "List of all events"
+msgstr "Näytä kaikki tapahtumat"
+
+#: ../classes/chronosly_dad_elements.php:1569
+msgid ""
+"Display all events for this element, is the event list content used inside "
+"Organizer, Place, Category and Calendar"
+msgstr ""
+"Näytä valinnan kaikki tapahtumat. Tätä käytetään tapahtumalistana Järjestäjä-"
+", Paikka-, Kategoria-, ja Kalenterinäkymissä"
+
+#: ../classes/chronosly_dad_elements.php:1611
+msgid ""
+"Name of your event. This is how users will first see your event. Use "
+"something they will instantly recognize"
+msgstr "Tapahtuman nimi käyttäjille."
+
+#: ../classes/chronosly_dad_elements.php:1632 ../classes/chronosly_dad_elements.
+#: php:1708 ../classes/chronosly_dad_elements.php:1781 ..
+#: classes/chronosly_dad_elements.php:2584 ../classes/chronosly_dad_elements.php:
+#: 2673 ../classes/chronosly_dad_elements.php:2794 ..
+#: classes/chronosly_dad_elements.php:2879 ../classes/chronosly_dad_elements.php:
+#: 2954 ../classes/chronosly_dad_elements.php:3193 ..
+#: classes/chronosly_dad_elements.php:3274 ../classes/chronosly_dad_elements.php:
+#: 3359 ../classes/chronosly_dad_elements.php:3434 ..
+#: classes/chronosly_dad_elements.php:3436 ../classes/chronosly_dad_elements.php:
+#: 3674 ../classes/chronosly_dad_elements.php:4052 ..
+#: classes/chronosly_dad_elements.php:5483 ../classes/chronosly_dad_elements.php:
+#: 5563
+msgid "Show hidden boxes"
+msgstr "Näytä piilotetut laatikot"
+
+#: ../classes/chronosly_dad_elements.php:1633 ../classes/chronosly_dad_elements.
+#: php:1709 ../classes/chronosly_dad_elements.php:1782 ..
+#: classes/chronosly_dad_elements.php:2585 ../classes/chronosly_dad_elements.php:
+#: 2674
+msgid "Open event page"
+msgstr "Avaa tapahtuman sivu"
+
+#: ../classes/chronosly_dad_elements.php:1634 ../classes/chronosly_dad_elements.
+#: php:1710 ../classes/chronosly_dad_elements.php:1783 ..
+#: classes/chronosly_dad_elements.php:2586 ../classes/chronosly_dad_elements.php:
+#: 2675 ../classes/chronosly_dad_elements.php:2796 ..
+#: classes/chronosly_dad_elements.php:2881 ../classes/chronosly_dad_elements.php:
+#: 2956 ../classes/chronosly_dad_elements.php:3195 ..
+#: classes/chronosly_dad_elements.php:3276 ../classes/chronosly_dad_elements.php:
+#: 3361 ../classes/chronosly_dad_elements.php:3437 ..
+#: classes/chronosly_dad_elements.php:3676 ../classes/chronosly_dad_elements.php:
+#: 4054 ../classes/chronosly_dad_elements.php:5485 ..
+#: classes/chronosly_dad_elements.php:5562
+msgid "Open external page"
+msgstr "Avaa ulkoinen sivu"
+
+#: ../classes/chronosly_dad_elements.php:1635 ../classes/chronosly_dad_elements.
+#: php:1711 ../classes/chronosly_dad_elements.php:1784 ..
+#: classes/chronosly_dad_elements.php:2587 ../classes/chronosly_dad_elements.php:
+#: 2676
+msgid "Pop up event page"
+msgstr "Avaa ponnahdusikkunaan"
+
+#: ../classes/chronosly_dad_elements.php:1684
+msgid ""
+"Summarize and include details about what the event will be about so users "
+"will know what they can expect of that particular event.<br/><br/>The more "
+"details you can provide, the more vivid the image of the event will be in "
+"the users mind."
+msgstr "Kuvaa lyhyesti tapahtuman sisältöä."
+
+#: ../classes/chronosly_dad_elements.php:1759
+msgid "Event excerpt"
+msgstr "Tapahtuman tiivistelmä"
+
+#: ../classes/chronosly_dad_elements.php:1760
+msgid ""
+"Optional summary or description of an event, an event summary."
+"<br/><br/>Excerpt is used to describe events in RSS feeds and also in search "
+"results."
+msgstr ""
+"Vapaaehtoinen kooste tai lyhyt kuvaus tapahtumasta. Käytetään mm. RSS "
+"syötteissä ja hakutuloksissa."
+
+#: ../classes/chronosly_dad_elements.php:1831
+msgid "Custom text"
+msgstr "Mukautettu teksti"
+
+#: ../classes/chronosly_dad_elements.php:1832
+msgid ""
+"Add and customize some text to give customers extra information about your "
+"event.<br/>This option does not allow edit the text with bold, images or "
+"other resources. If text edititing is needed choose Custom text box"
+msgstr ""
+"Lisää tietoa tapahtumasta. Pelkkää tekstisisältöä. Jos tarvitset muotoiltua "
+"sisältöä, käytä Mukautettua tekstilaatikkoa."
+
+#: ../classes/chronosly_dad_elements.php:1846 ../classes/chronosly_dad_elements.
+#: php:1891 ../classes/chronosly_dad_elements.php:1937
+msgid "Change me"
+msgstr "Muuta minut"
+
+#: ../classes/chronosly_dad_elements.php:1876
+msgid "Custom text box"
+msgstr "Mukautettu tekstilaatikko"
+
+#: ../classes/chronosly_dad_elements.php:1877
+msgid ""
+"Add and customize some text to give customers extra information about your "
+"event.<br/>This option allows users to edit the text with bold, images or "
+"other resources"
+msgstr ""
+"Lisää tietoa tapahtumasta. Sisältö voi olla myös muotoiltua ja voi sisältää "
+"mm. kuvia."
+
+#: ../classes/chronosly_dad_elements.php:1921
+msgid "Custom link"
+msgstr "Mukautettu linkki"
+
+#: ../classes/chronosly_dad_elements.php:1922
+msgid ""
+"Add and customize an internal or external link to give extra information or "
+"references about the event"
+msgstr "Lisää tapahtuman kuvaukseen linkki"
+
+#: ../classes/chronosly_dad_elements.php:1936
+msgid "Link text"
+msgstr "Linkkiteksti"
+
+#: ../classes/chronosly_dad_elements.php:1945
+msgid "Pop up inside page"
+msgstr "Ponnahdusikkuna sivulla"
+
+#: ../classes/chronosly_dad_elements.php:1986
+msgid "Custom code"
+msgstr "Mukautettu koodi"
+
+#: ../classes/chronosly_dad_elements.php:1987
+msgid ""
+"Insert any WP shortcode, always compatible with the rest of your installed "
+"plugins"
+msgstr "Lisää mikä tahansa WP:n sisäinen tai WP:n lisäosan tunnistekoodi. "
+
+#: ../classes/chronosly_dad_elements.php:2032
+msgid "Inside box"
+msgstr "Lisälaatikko"
+
+#: ../classes/chronosly_dad_elements.php:2033
+msgid ""
+"Insert another Drag & Drop box inside the main box for better styling of "
+"elements inside. Multiple Inside Boxes can be nested."
+msgstr ""
+"Lisää \"Raahaa & Pudota\" -laatikko pääsisältölaatikon sisälle. Voidaan "
+"sisällyttää toisiinsa."
+
+#: ../classes/chronosly_dad_elements.php:2073
+msgid "Full Date"
+msgstr "Koko päivämäärä"
+
+#: ../classes/chronosly_dad_elements.php:2074
+msgid "Set display format for start / end date at the same time"
+msgstr "Aikaformaatin valinta tapahtuman aloitus ja lopetuspäivämäärille"
+
+#: ../classes/chronosly_dad_elements.php:2128
+msgid "Full Time"
+msgstr "Koko aika"
+
+#: ../classes/chronosly_dad_elements.php:2129
+msgid "Set display format for start / end time at the same time"
+msgstr "Aikaformaatin valinta tapahtuman aloitus- ja lopetusajankohdalle"
+
+#: ../classes/chronosly_dad_elements.php:2183
+msgid "Full DateTime"
+msgstr "Pvm & Aika"
+
+#: ../classes/chronosly_dad_elements.php:2184
+msgid "Set display format for start / end date and time at the same time"
+msgstr "Aikaformaatin valinta tapahtuman aloitus- ja lopetusajalle sekä päivämäärälle"
+
+#: ../classes/chronosly_dad_elements.php:2238
+msgid "Start date"
+msgstr "Alkamispäivä"
+
+#: ../classes/chronosly_dad_elements.php:2239
+msgid "Set the start date for your event"
+msgstr "Tapahtuman aloituspäivä"
+
+#: ../classes/chronosly_dad_elements.php:2293
+msgid "Start hour"
+msgstr "Aloitus klo"
+
+#: ../classes/chronosly_dad_elements.php:2294
+msgid "Set the start hour for your event"
+msgstr "Tapahtuman aloitusaika"
+
+#: ../classes/chronosly_dad_elements.php:2348
+msgid "Start DateTime"
+msgstr "Aloitusaika ja päivä"
+
+#: ../classes/chronosly_dad_elements.php:2349
+msgid "Set display format for start date and time"
+msgstr "Aikaformaatin valinta tapahtuman aloitus ja lopetuspäiville sekä ajoille"
+
+#: ../classes/chronosly_dad_elements.php:2404
+msgid "Set the end date for your event"
+msgstr "Tapahtuman päättymispäivä"
+
+#: ../classes/chronosly_dad_elements.php:2457
+msgid "End hour"
+msgstr "Päättymisaika"
+
+#: ../classes/chronosly_dad_elements.php:2458
+msgid "Set the end hour for your event"
+msgstr "Tapahtuman päättymisaika"
+
+#: ../classes/chronosly_dad_elements.php:2511
+msgid "End DateTime"
+msgstr "Päättymispäivä ja -aika"
+
+#: ../classes/chronosly_dad_elements.php:2512
+msgid "Set display format for end date and time"
+msgstr "Näyttömuodon valinta ajalle ja päivälle"
+
+#: ../classes/chronosly_dad_elements.php:2564
+msgid "Featured image"
+msgstr "Tapahtuman pääkuva"
+
+#: ../classes/chronosly_dad_elements.php:2565
+msgid ""
+"Add a featured image to your event.<br/>You can customize your event by "
+"adding an image that will represent the event contents and will be useful "
+"for users to identify it"
+msgstr "Lisää tapahtumalle kuva."
+
+#: ../classes/chronosly_dad_elements.php:2579 ../classes/chronosly_dad_elements.
+#: php:2668 ../classes/chronosly_dad_elements.php:3669
+msgid "Link Image"
+msgstr "Linkkikuva"
+
+#: ../classes/chronosly_dad_elements.php:2649
+msgid "Custom image"
+msgstr "Mukautettu kuva"
+
+#: ../classes/chronosly_dad_elements.php:2650
+msgid ""
+"Add a customised image to your event.<br/>You can customize your event "
+"adding an image that will represent the event contents and will be useful "
+"for users to identify it."
+msgstr "Lisää kuva tapahtumaan."
+
+#: ../classes/chronosly_dad_elements.php:2723
+msgid "Gallery"
+msgstr "Galleria"
+
+#: ../classes/chronosly_dad_elements.php:2724
+msgid ""
+"Add an image gallery to your event.<br/>You can customize your event adding "
+"an image gallery that will represent the event contents and will be useful "
+"for users to identify it.<br/><br/>This advanced setting is fully compatible "
+"with most common image gallery plugins for wordpress"
+msgstr "Lisää kuvagalleria tapahtumaan."
+
+#: ../classes/chronosly_dad_elements.php:2789
+msgid "Link to organizer"
+msgstr "Järjestäjän kotisivu"
+
+#: ../classes/chronosly_dad_elements.php:2797 ../classes/chronosly_dad_elements.
+#: php:2882 ../classes/chronosly_dad_elements.php:2957 ..
+#: classes/chronosly_dad_elements.php:3196
+msgid "Pop up organizer page"
+msgstr "Näytä järjestäjän kotisivu ponnahdusikkunassa"
+
+#: ../classes/chronosly_dad_elements.php:2880 ../classes/chronosly_dad_elements.
+#: php:2955 ../classes/chronosly_dad_elements.php:3194 ..
+#: classes/chronosly_dad_elements.php:3360
+msgid "Open organizer page"
+msgstr "Avaa järjestäjän sivu"
+
+#: ../classes/chronosly_dad_elements.php:2931 ../classes/chronosly_dad_elements.
+#: php:3411
+msgid "Excerpt"
+msgstr "Lyhennelmä"
+
+#: ../classes/chronosly_dad_elements.php:3059 ../classes/chronosly_dad_elements.
+#: php:3540
+msgid "Email"
+msgstr "Email"
+
+#: ../classes/chronosly_dad_elements.php:3173
+msgid "Logo"
+msgstr "Logo"
+
+#: ../classes/chronosly_dad_elements.php:3275 ../classes/chronosly_dad_elements.
+#: php:3435 ../classes/chronosly_dad_elements.php:3675 ..
+#: classes/chronosly_dad_elements.php:4053
+msgid "Open place page"
+msgstr "Avaa paikan sivu"
+
+#: ../classes/chronosly_dad_elements.php:3277 ../classes/chronosly_dad_elements.
+#: php:3362 ../classes/chronosly_dad_elements.php:3438 ..
+#: classes/chronosly_dad_elements.php:3677 ../classes/chronosly_dad_elements.php:
+#: 4055
+msgid "Pop up place page"
+msgstr "Avaa paikan sivu ponnahdusikkunassa"
+
+#: ../classes/chronosly_dad_elements.php:3350
+msgid "Show readmore"
+msgstr "Näytä \"Lue lisää\""
+
+#: ../classes/chronosly_dad_elements.php:3354 ../classes/chronosly_dad_elements.
+#: php:3429
+msgid "more"
+msgstr "lisää"
+
+#: ../classes/chronosly_dad_elements.php:3735
+msgid "state"
+msgstr "osavaltio"
+
+#: ../classes/chronosly_dad_elements.php:3843
+msgid "country"
+msgstr "maa"
+
+#: ../classes/chronosly_dad_elements.php:3950
+msgid "gmap"
+msgstr "Gmap"
+
+#: ../classes/chronosly_dad_elements.php:3999 ../classes/chronosly_dad_elements.
+#: php:4003
+msgid "Loading map"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4104
+msgid "List of all tickets"
+msgstr "Lista lippuvaihtoehdoista"
+
+#: ../classes/chronosly_dad_elements.php:4105
+msgid "Display all tickets filled for this event in a predefined format"
+msgstr "Näytä kaikki lippuvaihtoehdot tapahtumalle"
+
+#: ../classes/chronosly_dad_elements.php:4180
+msgid "Min. tickets"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4181
+msgid "Max. tickets"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4182
+msgid "Sales start"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4183
+msgid "Sales end"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4211
+msgid "Sold out"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4213 ../classes/chronosly_dad_elements.
+#: php:4214 ../classes/chronosly_dad_elements.php:5349
+msgid "Buy"
+msgstr "Osta"
+
+#: ../classes/chronosly_dad_elements.php:4217
+msgid "Note"
+msgstr ""
+
+#: ../classes/chronosly_dad_elements.php:4978 ..
+#: metaboxes/chronosly_tickets_metabox.php:3 ..
+#: metaboxes/chronosly_tickets_metabox.php:21
+msgid "Sold Out"
+msgstr "Loppuunmyyty"
+
+#: ../classes/chronosly_dad_elements.php:5056
+msgid "Min per user"
+msgstr "Vähintään käyttäjää kohden"
+
+#: ../classes/chronosly_dad_elements.php:5108
+msgid "Max per user"
+msgstr "Lippuja enintään käyttäjää kohden"
+
+#: ../classes/chronosly_dad_elements.php:5162
+msgid "Start time"
+msgstr "Aloitusaika"
+
+#: ../classes/chronosly_dad_elements.php:5222
+msgid "End time"
+msgstr "Lopetusaika"
+
+#: ../classes/chronosly_dad_elements.php:5279
+msgid "Notes"
+msgstr "Huomautukset"
+
+#: ../classes/chronosly_dad_elements.php:5333
+msgid "Buy link"
+msgstr "Ostolinkki"
+
+#: ../classes/chronosly_dad_elements.php:5348
+msgid "Buy text"
+msgstr "Ostoteksti"
+
+#: ../classes/chronosly_dad_elements.php:5462
+msgid "Category Name"
+msgstr "Kategorian nimi"
+
+#: ../classes/chronosly_dad_elements.php:5484 ../classes/chronosly_dad_elements.
+#: php:5561
+msgid "Open category page"
+msgstr "Avaa kategorian sivu"
+
+#: ../classes/chronosly_dad_elements.php:5537
+msgid "Category Description"
+msgstr "Kategorian kuvaus"
+
+#: ../classes/chronosly_dad_elements.php:5613
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: ../classes/chronosly_settings.php:238 ../metaboxes/settings/support.php:59 ..
+#: metaboxes/settings/welcome.php:67 ../metaboxes/settings/welcome.php:91 ..
+#: metaboxes/settings/welcome.php:114 ../metaboxes/settings/welcome.php:162
+msgid "Settings"
+msgstr "Asetukset"
+
+#: ../classes/chronosly_settings.php:247
+msgid "Change profile"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:256
+msgid "Edit Templates"
+msgstr "Muokkaa sivupohjaa"
+
+#: ../classes/chronosly_settings.php:264 ../metaboxes/settings/settings.php:332
+msgid "Templates status"
+msgstr "Sivupohjan tila"
+
+#: ../classes/chronosly_settings.php:272
+msgid "Addons settings"
+msgstr "Lisäosan asetukset"
+
+#: ../classes/chronosly_settings.php:282 ../metaboxes/settings/support.php:3
+msgid "Support"
+msgstr "Tukipyyntö"
+
+#: ../classes/chronosly_settings.php:338
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Toiminto meni mönkään. Päivitä sivu ja yritä uudestaan."
+
+#: ../classes/chronosly_settings.php:421
+msgid "license"
+msgstr "lisenssi"
+
+#: ../classes/chronosly_settings.php:451
+msgid "Main page"
+msgstr "Pääsivu"
+
+#: ../classes/chronosly_settings.php:478
+msgid "Version"
+msgstr "Versio"
+
+#: ../classes/chronosly_settings.php:479
+msgid "required update to"
+msgstr "vaadittu päivitys"
+
+#: ../classes/chronosly_settings.php:480 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:174
+msgid "Delete"
+msgstr "Poista"
+
+#: ../classes/chronosly_settings.php:527 ../metaboxes/settings/settings.php:351
+msgid "Save"
+msgstr "Tallenna"
+
+#: ../classes/chronosly_settings.php:545
+msgid "newer version"
+msgstr "uudempi versio"
+
+#: ../classes/chronosly_settings.php:623
+msgid "There was an error installing this template"
+msgstr "Sivupohjan asennuksessa tapahtui virhe"
+
+#: ../classes/chronosly_settings.php:628
+msgid "The file type that you've uploaded is not a Chronosly Template ZIP."
+msgstr "Tiedostotyyppi ei ole Chronosly -yhteensopiva ZIP"
+
+#: ../classes/chronosly_settings.php:670
+msgid ""
+"Your templates are now updated to use the addon, but you have to manualy "
+"edit all templates that you have updated inside an event edit page"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:700
+msgid "You have the latest version of Chronosly"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:700
+msgid "Current Version"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:702
+msgid ""
+"You have an older version of Chronosly, update it for get the latests "
+"features."
+msgstr ""
+
+#: ../classes/chronosly_settings.php:702
+msgid "UPDATE"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:702 ../metaboxes/settings/template-editor.
+#: php:25
+msgid "to"
+msgstr ""
+
+#: ../classes/chronosly_settings.php:733
+msgid "Without"
+msgstr "Ilman"
+
+#: ../classes/chronosly_settings.php:751
+msgid "Individualy edited"
+msgstr "Yksittäin muokattu"
+
+#: ../classes/chronosly_settings.php:752 ../metaboxes/settings/templates-status.
+#: php:23
+msgid "Chart representation of template usage"
+msgstr "Kaavio sivupohjan käytöstä"
+
+#: ../classes/chronosly_mk_templates.php:46 ../classes/chronosly_mk_templates.php:
+#: 54
+msgid "Download Templates"
+msgstr "Lataa sivupohja"
+
+#: ../classes/chronosly_widgets.php:10
+msgid "Chronosly widget for Events,Calendar, Organizers and Places"
+msgstr "Chronosly vimpain Tapahtumille, Kalenterille, Järjestäjille tai Paikoille"
+
+#: ../classes/chronosly_widgets.php:190
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: ../classes/chronosly_widgets.php:194
+msgid "Type:"
+msgstr "Tyyppi:"
+
+#: ../classes/chronosly_widgets.php:202
+msgid "Single view:"
+msgstr "Näytä yksittäin"
+
+#: ../classes/chronosly_widgets.php:206
+msgid "Ids:"
+msgstr "Tunnisteet:"
+
+#: ../classes/chronosly_widgets.php:210
+msgid "Exclude:"
+msgstr "Piilota tunnisteet:"
+
+#: ../classes/chronosly_widgets.php:214
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: ../classes/chronosly_widgets.php:219
+msgid "Organizer:"
+msgstr "Järjestäjä:"
+
+#: ../classes/chronosly_widgets.php:226
+msgid "Place:"
+msgstr "Paikka:"
+
+#: ../classes/chronosly_widgets.php:231
+msgid "Upcoming:"
+msgstr "Tulevat:"
+
+#: ../classes/chronosly_widgets.php:235
+msgid "Year:"
+msgstr "Vuosi:"
+
+#: ../classes/chronosly_widgets.php:239
+msgid "Month:"
+msgstr "Kuukausi"
+
+#: ../classes/chronosly_widgets.php:243
+msgid "Week:"
+msgstr "Viikko"
+
+#: ../classes/chronosly_widgets.php:247
+msgid "Day (Y-m-d):"
+msgstr "Päivä (Y-m-d):"
+
+#: ../classes/chronosly_widgets.php:251
+msgid "Limit:"
+msgstr "Raja:"
+
+#: ../classes/chronosly_widgets.php:255
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: ../classes/chronosly_widgets.php:259
+msgid "Small container (like sidebar):"
+msgstr "Pienikokoinen (sivupalkki)"
+
+#: ../classes/chronosly_templates.php:52
+msgid "Cache cleared"
+msgstr "Välimuisti tyhjennetty"
+
+#: ../classes/chronosly_templates.php:132
+msgid "This template is a predefined template, you can't delete it"
+msgstr "Tämä sivupohja on oletuksena, eikä sitä voida poistaa."
+
+#: ../classes/chronosly_templates.php:146
+msgid "An error ocurred when try to delete this template"
+msgstr "Sivupohjan poistossa tapahtui virhe"
+
+#: ../classes/chronosly_templates.php:155
+msgid "removed"
+msgstr "poistettu"
+
+# automaticly > automatically
+#: ../classes/chronosly_templates.php:171
+msgid ""
+"This template is a predefined template, you can't modify it because further "
+"template autoupdates and addons upload will be automaticly."
+msgstr "Tämä sivupohja on oletuksena, eikä sitä voida muokata."
+
+#: ../classes/chronosly_templates.php:171
+msgid "Please, if you want to change this template, clone it and modify the copy."
+msgstr "Jos haluat muokata sivupohjaa, tee siitä kopio ja muokkaa sitä"
+
+#: ../classes/chronosly_templates.php:191
+msgid "updated"
+msgstr "päivitetty"
+
+#: ../classes/chronosly_templates.php:313
+msgid "template edited"
+msgstr "sivupohja muokattu"
+
+#: ../classes/chronosly_templates.php:1148
+msgid "Category & Tag"
+msgstr "Kategoriat & avainsanat"
+
+#: ../classes/chronosly_templates.php:1149
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: ../classes/chronosly_templates.php:1150
+msgid "Time"
+msgstr "Aika"
+
+#: ../languages/custom_strings.php:3
+msgid "from "
+msgstr ""
+
+#: ../languages/custom_strings.php:4
+msgid "Organized by "
+msgstr ""
+
+#: ../languages/custom_strings.php:5
+msgid "Buy tickets"
+msgstr "Osta lippuja"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:34
+msgid ""
+"Add box to template.\n"
+"A box let you group elements to style, like background of specific block or "
+"other effects like box hide/show"
+msgstr ""
+"Lisää laatikko sivupohjaan\n"
+"Laatikko antaa mahdollisuuden lisämuotoiluun, kuten taustan määrittämisen "
+"tai näytä/piilota -efektien käytön."
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:34
+msgid "Add box"
+msgstr "Lisää laatikko"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:36
+msgid ""
+"Show/hide all hidden boxes, like if one user clicks on read more with 'show "
+"hidden boxes' action"
+msgstr "Näytä / piilota sisältö."
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:36
+msgid "Hidden boxes"
+msgstr "Piilosisältö"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:37
+msgid "Show/hide featured boxes to style the featured template"
+msgstr "Näytä / piilota Nostonäkymän laatikot"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:37
+msgid "Featured style"
+msgstr "Nostonäkymä"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:38
+msgid "Hidde demo content, lorem ipsum, to show the real content in frontend"
+msgstr "Piilota testisisältö"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:38
+msgid "Remove lorem ipsum"
+msgstr "Poista lorem ipsum"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:40
+msgid "Remove all content of this template, to start a blank new page"
+msgstr "Poista kaikki sivupohjan sisältö ja aloita uusi sivu"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:40
+msgid "Remove all content"
+msgstr "Poista kaikki sisältö"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Box type"
+msgstr "Laatikon tyyppi"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Normal, hide when click on readmore with slide action"
+msgstr "Normaali, piilota \"Lue lisää\" -linkistä"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Hidden, show when click on readmore with slide action"
+msgstr "Piilotettu, näytä \"Lie lisää\" -linkistä"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:53 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:122
+msgid "Show always"
+msgstr "Näytä aina"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:54 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:123
+msgid "Box class"
+msgstr "Laatikon luokka"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:55 ..
+#: metaboxes/chronosly_dad_framework_metabox.php:124
+msgid "Featured box"
+msgstr "Nostolaatikko"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "Align left"
+msgstr "Vasemmalla"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "Aling right"
+msgstr "Oikealla"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:165
+msgid "New line"
+msgstr "Uusi rivi"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:167
+msgid "Move up this box one position"
+msgstr "Siirrä laatikkoa ylöspäin"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:167
+msgid "Box up"
+msgstr "Laatikko ylös"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:168
+msgid "Move down this box one position"
+msgstr "Siirrä laatikkoa alaspäin"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:168
+msgid "Box down"
+msgstr "Laatikko alas"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:169
+msgid ""
+"Reset the width of item to default, useful when we have edited the size of "
+"the item and want to return back"
+msgstr "Palauta palikan leveys oletukseksi"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:169
+msgid "Default"
+msgstr "Oletus"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:170
+msgid ""
+"Automatically adjusts an item width according to its content so that it fits "
+"with the rest of items in the Template"
+msgstr "Säätää leveyttä automaattisesti sisällön mukaan"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:170
+msgid "Adjust"
+msgstr "Säädä"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:171
+msgid ""
+"Create a copy of selected item with the same values and settings as the "
+"original"
+msgstr "Luo objektista kopio samoilla asetuksilla ja arvoilla"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:171
+msgid "Duplicate"
+msgstr "Kopioi"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:172
+msgid "Copy style of a selected item"
+msgstr "Kopioi objektin tyyli"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:172
+msgid "Copy style"
+msgstr "Kopioi tyyli"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:173
+msgid ""
+"Paste style on a selected item.<br/>Before pastying the style, it should be "
+"copied from another item (Copy Style)"
+msgstr "Liitä objektin tyyli, kopioi tyyli toisesta objektista ennen liittämistä"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:173
+msgid "Paste style"
+msgstr "Liitä tyyli"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:174
+msgid "Delete selected item"
+msgstr "Poista valittu"
+
+#: ../metaboxes/chronosly_dad_framework_metabox.php:176
+msgid "Variables"
+msgstr "Muuttujat"
+
+#: ../metaboxes/chronosly_cat_vars_metabox.php:1
+msgid "Category color"
+msgstr "Kategorian tunnisteväri"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:7
+msgid "Lat. & Long."
+msgstr "Koordinaatit"
+
+#: ../metaboxes/chronosly_places_details_metabox.php:16
+msgid ""
+"Guided process do step by step letting you to confirm or update all "
+"templates and views"
+msgstr "Opastettu sivupohjien ja näkymien vahvistus."
+
+# suported > supported
+#: ../metaboxes/chronosly_places_details_metabox.php:17
+msgid ""
+"Auto Update do the job for you, but this is not full suported on custom "
+"edited templates that could need your work"
+msgstr "Automaattinen päivitys on poistettu käytöstä Mukauteutuille sivupohjille."
+
+#: ../metaboxes/chronosly_places_details_metabox.php:18
+msgid ""
+"For the single edited templates (previously edited directly inside the "
+"events page)  you can also update template using the new drag and drop "
+"'Share' bubble"
+msgstr "Voit päivittää muokattuja sivupohjia myös Raahaa & Pudota -työkalulla"
+
+#: ../metaboxes/chronosly_date_metabox.php:35
+msgid "years"
+msgstr "vuosi"
+
+#: ../metaboxes/chronosly_date_metabox.php:63
+msgid ""
+"If you choose to repeat an event, more options will appear such as repeating "
+"the event over a period time, either in days, weeks or years. These new "
+"options will allow you to set the end of the repetitions, by setting an "
+"exact end date o a definite number of repetitions, for examples the event to "
+"be repeated twice."
+msgstr "Toistuvan tapahtuman lisäasetukset ilmestyvät valihtojen yhteyteen."
+
+#: ../metaboxes/chronosly_date_metabox.php:64
+msgid ""
+"Note: Chronosly does not allow certain repetitions to be set. If the number "
+"of days with events is over a week o a month, the system does not allow the "
+"event to be published. E.g. if you create 8-days events, these can not be "
+"repeated weekly. 32-days events can not be set with weekly or monthly "
+"repetition."
+msgstr ""
+"Huomautus: Tapahtumien toistoa on rajoitettu automaattisesti. "
+"Kahdeksanpäiväisiä tapahtumia ei voida säätää toistumaan viikottain, tai 32-"
+"päiväisiä tapahtumia ei voida säätää toistumaan kuukausittain tai "
+"viikoittain."
+
+#: ../metaboxes/chronosly_date_metabox.php:65
+msgid ""
+"It is possible to set 2-days events with daily repetitions. In this case the "
+"event would be repeated every 2 days."
+msgstr ""
+"Voit kuitenkin säätää kaksipäiväiset tapahtumat toistumaan päivittäin. "
+"Tällöin väli on kaksi päivää."
+
+#: ../metaboxes/chronosly_places_metabox.php:18 ..
+#: metaboxes/chronosly_organizer_metabox.php:16
+msgid "More details"
+msgstr "Lisätietoja"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:2 ..
+#: metaboxes/chronosly_tickets_metabox.php:20
+msgid "edit"
+msgstr "muokkaa"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:2 ..
+#: metaboxes/chronosly_tickets_metabox.php:20
+msgid "delete"
+msgstr "poista"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:35
+msgid "Add ticket"
+msgstr "Luo lippu"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:37
+msgid ""
+"Manage all your event tickets and registrations. Show all important details "
+"about your event tickets, such as number of tickets available, price, "
+"capacity and much more."
+msgstr ""
+"Hallitse kaikkie tapahtumien lippuja ja rekisteröitymisiä. Näytä tärkeitä "
+"yksityiskohtia lipuista, kuten hinta, saatavuus, määrä, ym."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:38
+msgid ""
+"TITLE: Create the name of your ticket type. Give a descriptive name to "
+"ensure you can distinguish between them when you define capacity and "
+"availability."
+msgstr "NIMI: Lipputyypin nimi"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:39
+msgid "PRICE: Show ticket prices, also change currency and availability"
+msgstr "HINTA: Lipun hinnat, valuutta ja saatavuus"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:40
+msgid "SOLD OUT: Set ticket sold out"
+msgstr "MYYTY LOPPUUN: Merkitse lippu loppuunmyydyksi"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:41
+msgid ""
+"CAPACITY: Provide detailed information about the maximum number of tickets "
+"that can be sold at your event. This set is important to avoid overbooking "
+"your event."
+msgstr "MÄÄRÄ: Kerro myytävien lippujen määrä."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:42
+msgid ""
+"MIN.: Provide detailed information about the minimum number of tickets that "
+"can be can be purchased by each user. This set-up is used to ensure your "
+"events are accessible to as many users as possible, also to avoid the resale "
+"of ticket"
+msgstr "VÄHINTÄÄN: Merkitse montako lippua yksi ostaja voi vähintään lunastaa."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:43
+msgid ""
+"MAX.: Provide detailed information about the maximum number of tickets that "
+"can be can be purchased by each user. This set-up is used to ensure your "
+"events are accessible to as many users as possible, also to avoid the resale "
+"of tickets."
+msgstr "ENINTÄÄN: Merkitse montako lippua yksi ostaja voi enintään lunastaa."
+
+#: ../metaboxes/chronosly_tickets_metabox.php:44
+msgid "FROM: Set ticket sales start date."
+msgstr "MYYNTI ALKAA:"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:45
+msgid "TO: Set ticket sales end date."
+msgstr "MYYNTI LOPPUU:"
+
+#: ../metaboxes/chronosly_tickets_metabox.php:46
+msgid "LINK: Add an external link to your selling tickets website or platform."
+msgstr "LINKKI: Lisää ulkoinen linkki lipunmyyntiä hoitavaan tahoon"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:5 ..
+#: metaboxes/dad11/chronosly_category_dad11_select_metabox.php:5 ..
+#: metaboxes/dad1/chronosly_dad1_select_metabox.php:5 ..
+#: metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:5
+msgid "Load template"
+msgstr "Lataa sivupohja"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:15 ..
+#: metaboxes/dad11/chronosly_category_dad11_select_metabox.php:15 ..
+#: metaboxes/dad1/chronosly_dad1_select_metabox.php:15 ..
+#: metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:14
+msgid "Select view"
+msgstr "Valitse näkymä"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:23
+msgid "A view is how the place is shown in each website navigation section."
+msgstr "Näkymä määrittää miten paikka näkyy sivuston navigoinnissa"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:24
+msgid "It allows you to thoroughly customize how each place behaves in each section."
+msgstr "Se mahdollistaa läpikotaisen mukauttamisen jokaiselle paikalle."
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:28
+msgid "In your website the places have 2 different views"
+msgstr "Sivustolla on käytössä kaksi erillistä näkymää paikoille"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:30
+msgid "1- General View: customize how the place is displayed in the places list"
+msgstr "1- Yleinen näkymä: Mukauta kuinka paikka näkyy listauksissa"
+
+#: ../metaboxes/dad9/chronosly_places_dad9_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of your place, a single page on the "
+"place, where all the information is shown"
+msgstr "2- Sivunäkymä: Mukauta kuinka paikka näkyy yksittäisellä sivulla"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:23
+msgid "A view is how the category is shown in each website navigation section."
+msgstr "Näkymä määrittää miten kategoria näytetään sivuston navigoinnissa."
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:24
+msgid ""
+"It allows you to thoroughly customize how each category behaves in each "
+"section."
+msgstr "Se sallii läpikotaisen mukauttamisen jokaiselle kategorialle."
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:28
+msgid "In your website the categories have 2 different views"
+msgstr "Sivustolla kategorialla on kaksi erillistä näkymää käytössä."
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:30
+msgid ""
+"1- General View: customize how the category is displayed in the categories "
+"list"
+msgstr "1- Yleinen näkymä: Mukauta kuinka kategoria näkyy kategorialistalla"
+
+#: ../metaboxes/dad11/chronosly_category_dad11_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of the category, a single page on "
+"the category, where all the information is shown"
+msgstr "2- Sivunäkymä: Mukauta kuinka kategoria näkyy yksittäisellä sivulla"
+
+#: ../metaboxes/settings/templates-status.php:3
+msgid "Template Status"
+msgstr "Sivupohjan Tila"
+
+#: ../metaboxes/settings/templates-status.php:4
+msgid ""
+"This feature automatically check how different templates are used on events, "
+"organizers, places and categories."
+msgstr ""
+"Ominaisuus tarkistaa automaattisesti kuinka Sivupohjia käytetään Tapahtumien,"
+" Järjestäjien, Paikkojen ja Kategorioiden yhteydessä."
+
+#: ../metaboxes/settings/templates-status.php:7
+msgid "Filter events"
+msgstr "Suodata tapahtumia"
+
+#: ../metaboxes/settings/templates-status.php:9
+msgid "All"
+msgstr "Kaikki"
+
+#: ../metaboxes/settings/templates-status.php:10
+msgid "Not past events"
+msgstr "Piilota menneet tapahtumat"
+
+#: ../metaboxes/settings/templates-status.php:11
+msgid "Template not manual edited"
+msgstr "Sivupohjaa ei muokattu"
+
+#: ../metaboxes/settings/templates-status.php:12
+msgid "Template manual edited"
+msgstr "Muokattu sivupohja"
+
+#: ../metaboxes/settings/templates-status.php:15
+msgid "Group by"
+msgstr "Ryhmitä"
+
+#: ../metaboxes/settings/templates-status.php:18
+msgid "View"
+msgstr "Näkymä"
+
+#: ../metaboxes/settings/settings.php:4
+msgid "General"
+msgstr "Yleinen"
+
+#: ../metaboxes/settings/settings.php:5
+msgid "Incompatibilities"
+msgstr "Yhteensopivuus"
+
+#: ../metaboxes/settings/settings.php:6 ../metaboxes/settings/settings.php:159 ..
+#: metaboxes/settings/support.php:31 ../metaboxes/settings/welcome.php:136
+msgid "Template Editor"
+msgstr "Sivupohjaeditori"
+
+#: ../metaboxes/settings/settings.php:8
+msgid "Status"
+msgstr "Tila"
+
+#: ../metaboxes/settings/settings.php:17
+msgid "General settings"
+msgstr "Yleiset asetukset"
+
+#: ../metaboxes/settings/settings.php:18
+msgid "Backend profile"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:20 ../metaboxes/settings/settings.php:24 ..
+#: metaboxes/settings/welcome.php:40 ../metaboxes/settings/welcome.php:67
+msgid "Basic"
+msgstr "Perus"
+
+#: ../metaboxes/settings/settings.php:21 ../metaboxes/settings/welcome.php:114
+msgid "Pro"
+msgstr "Pro"
+
+#: ../metaboxes/settings/settings.php:24 ../metaboxes/settings/welcome.php:36
+msgid "Choose the profile that better suits your skills"
+msgstr "Valitse hallintatapa"
+
+#: ../metaboxes/settings/settings.php:24
+msgid ""
+"Don't worry about anything, just upload your events very easily. Templates "
+"and extra addons are available in our marketplace."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:25 ../metaboxes/settings/welcome.php:47
+msgid "Advanced"
+msgstr "Edistynyt"
+
+#: ../metaboxes/settings/settings.php:25
+msgid ""
+"Take control of everything, make your own templates or edit the predefined "
+"ones with our editing drag &drop system."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:27
+msgid "Enable Tickets"
+msgstr "Liput käytössä"
+
+#: ../metaboxes/settings/settings.php:27
+msgid ""
+"In the Event editor the options for Tickets are shown by default. Disable "
+"this option if you don't want the options for Tickets to be shown."
+msgstr ""
+"Tapahtuman muokkauksessa Lippujen asetukset näkyvät oletuksena. Poista ruksi,"
+" jos haluat piilottaa Lippuasetukset muokkaimesta."
+
+#: ../metaboxes/settings/settings.php:38
+msgid "Enable Organizers"
+msgstr "Järjestäjät käytössä"
+
+#: ../metaboxes/settings/settings.php:38
+msgid ""
+"In the Event editor the options for Organizers are shown by default. Disable "
+"this option if you don't want the options for Organizers to be shown"
+msgstr ""
+"Tapahtuman muokkauksessa Järjestäjien asetukset näkyvät oletuksena. Poista "
+"ruksi, jos haluat piilottaa Järjestäjien asetukset."
+
+#: ../metaboxes/settings/settings.php:41
+msgid "Enable Places"
+msgstr "Paikat käytössä"
+
+#: ../metaboxes/settings/settings.php:41
+msgid ""
+"In the Event editor the options for Places are shown by default. Disable "
+"this option if you don't want the options for Places to be shown"
+msgstr ""
+"Tapahtuman muokkauksessa Paikkojen asetukset näkyvät oletuksena. Poista "
+"ruksi, jos haluat piilottaa Paikka-asetukset."
+
+#: ../metaboxes/settings/settings.php:43
+msgid "Enable template editor"
+msgstr "Käytä sivupohjien muokkainta"
+
+#: ../metaboxes/settings/settings.php:43
+msgid ""
+"In the event, organizers and places editors the options for Templates "
+"customization are shown by default. Disable this option if you don't waht "
+"the options for Templates customization to be shown"
+msgstr ""
+"Tapahtumien, Järjestäjien ja Paikkojen muokkauksessa Sivupohjan asetukset "
+"näkyvät oletuksena. Poista ruksi, jos haluat piilottaa Sivupohjan asetukset "
+"muokkaimesta."
+
+#: ../metaboxes/settings/settings.php:44
+msgid "Currency"
+msgstr "Valuutta"
+
+#: ../metaboxes/settings/settings.php:47
+msgid "Set currency for you tickets info and tickets selling."
+msgstr "Valitse rahayksikkö Lippujen hinnoille."
+
+#: ../metaboxes/settings/settings.php:52
+msgid "Events display"
+msgstr "Tapahtuman näkymä"
+
+#: ../metaboxes/settings/settings.php:53
+msgid "Week starts on"
+msgstr "Viikon ensimmäinen päivä"
+
+#: ../metaboxes/settings/settings.php:55
+msgid "Sunday"
+msgstr "Sunnuntai"
+
+#: ../metaboxes/settings/settings.php:56
+msgid "Monday"
+msgstr "Maanantai"
+
+#: ../metaboxes/settings/settings.php:57
+msgid ""
+"Calendars with weekly view start on Mondays by default. You can set the "
+"weeks to start on Sunday or Monday."
+msgstr ""
+"Viikon ensimmäinen päivä on oletuksena Maanantai. Voit valita "
+"aloituspäiväksi Maanantain tai Sunnuntain."
+
+#: ../metaboxes/settings/settings.php:59
+msgid "Show past events"
+msgstr "Näytä menneet tapahtumat"
+
+#: ../metaboxes/settings/settings.php:59
+msgid ""
+"All past events are not shown by default, except on calendar. Enable this "
+"option if you want past events to be shown"
+msgstr ""
+"Menneet tapahtumat ovat oletuksena pois näkyvistä. Lisää ruksi, jos haluat "
+"näyttää menneet tapahtumat näkymissä."
+
+#: ../metaboxes/settings/settings.php:60 ../metaboxes/settings/settings.php:60
+msgid "Hide past events on calendar"
+msgstr "Piilota menneet tapahtumat Kalenterista"
+
+#: ../metaboxes/settings/settings.php:61
+msgid "Disable scroll when event is opened"
+msgstr "Estä sivun selaus Tapahtumanäkymän ollessa auki"
+
+#: ../metaboxes/settings/settings.php:61
+msgid "Disable the auto scroll when event is opened on event lists"
+msgstr "Estä automaattinen selaus kun Tapahtuma on avattu Tapahtumalistalla"
+
+#: ../metaboxes/settings/settings.php:62
+msgid "Event sort"
+msgstr "Järjestä tapahtumat"
+
+#: ../metaboxes/settings/settings.php:65
+msgid "By date"
+msgstr "Päivämäärän mukaan"
+
+#: ../metaboxes/settings/settings.php:66
+msgid "By order"
+msgstr "Määrän mukaan"
+
+#: ../metaboxes/settings/settings.php:69
+msgid "By event name"
+msgstr "Nimen mukaan"
+
+#: ../metaboxes/settings/settings.php:74
+msgid ""
+"Sort order is by date by default. You can change the sort order into the "
+"following:"
+msgstr ""
+"Tapahtumat näytetään Päivämäärän mukaan oletuksena. Voit vaihtaa "
+"järjestyksen:"
+
+#: ../metaboxes/settings/settings.php:75
+msgid "date"
+msgstr "päivämäärä"
+
+#: ../metaboxes/settings/settings.php:76
+msgid "order"
+msgstr "lukumäärä"
+
+#: ../metaboxes/settings/settings.php:77
+msgid ""
+"it is ordered by the customized order in each type of element: events, "
+"categories, organizers, and places."
+msgstr ""
+"Järjestys on säädetty erikseen sisältötyypeille: Tapahtumat, Kategoriat, "
+"Järjestäjät ja Paikat."
+
+#: ../metaboxes/settings/settings.php:78
+msgid ""
+"The option to set an order is in the Options right sidebar of the elements "
+"that have this kind of setting: events, categories, organizers, and places."
+msgstr ""
+"Muuta oikean sivupalkin osioiden järjestystä, tapahtuma, kategoria, "
+"järjestäjä ja paikkasivuilla"
+
+#: ../metaboxes/settings/settings.php:78
+msgid ""
+"For more information, check the <a target='_blank' href='http://www."
+"chronosly.com/faq/events/others/'>Order settings help</a>"
+msgstr ""
+"Lisätietoa: <a target='_blank' href='http://www.chronosly."
+"com/faq/events/others/'>Order settings help</a>"
+
+#: ../metaboxes/settings/settings.php:79
+msgid "event name"
+msgstr "tapahtuman nimi"
+
+#: ../metaboxes/settings/settings.php:81
+msgid "Event sort direction"
+msgstr "Tapahtuman järjestyssuunta"
+
+#: ../metaboxes/settings/settings.php:83
+msgid "Ascendent"
+msgstr "Nouseva"
+
+#: ../metaboxes/settings/settings.php:84
+msgid "Descendent"
+msgstr "Laskeva"
+
+#: ../metaboxes/settings/settings.php:86
+msgid "Featured on top"
+msgstr "Nostettu päälimmäiseksi"
+
+#: ../metaboxes/settings/settings.php:86
+msgid ""
+"Featured events are shown on top of the lists or views by default. Disable "
+"this option to have them shown by Default sort, from the previous point in "
+"General Settings"
+msgstr ""
+"Nostetut tapahtumat näkyvät Tapahtumalistausten päälimmäisenä oletuksena. "
+"Poista ruksi, jos haluat käyttää oletusjärjestystä."
+
+#: ../metaboxes/settings/settings.php:87
+msgid "Events per page"
+msgstr "Tapahtumien määrä sivulla"
+
+#: ../metaboxes/settings/settings.php:87
+msgid "Set the number of events to be displayed per page"
+msgstr "Aseta tapahtumien maksimilukumäärä sivulla."
+
+#: ../metaboxes/settings/settings.php:89
+msgid "Organizers per page"
+msgstr "Järjestäjien määrä sivulla"
+
+# rganizers > organizers
+#: ../metaboxes/settings/settings.php:89
+msgid "Set the number of rganizers to be displayed per page"
+msgstr "Aseta Järjestäjien maksimilukumäärä sivulla"
+
+#: ../metaboxes/settings/settings.php:92
+msgid "Places per page"
+msgstr "Paikkoja sivulla"
+
+#: ../metaboxes/settings/settings.php:92
+msgid "Set the number of places to be displayed per page"
+msgstr "Aseta Paikkojen maksimilukumäärä sivulla"
+
+#: ../metaboxes/settings/settings.php:93
+msgid "Show event repeats on organizers"
+msgstr "Näytä toistuvat tapahtumat järjestäjien sivulla"
+
+#: ../metaboxes/settings/settings.php:93
+msgid "Events repetition will be shown on organizers event list"
+msgstr "Toistuvat tapahtumat näytetään järjestäjien tapahtumalistauksessa."
+
+#: ../metaboxes/settings/settings.php:94
+msgid "Show event repeats on places"
+msgstr "Näytä toistuvat tapahtumat Paikkojen sivulla"
+
+#: ../metaboxes/settings/settings.php:94
+msgid "Events repetition will be shown on places event list"
+msgstr "Toistuvat tapahtumat näytetään Paikkojen sivulla."
+
+#: ../metaboxes/settings/settings.php:97
+msgid "Main event list display"
+msgstr "Tapahtumalistauksen päänäkymä"
+
+#: ../metaboxes/settings/settings.php:100
+msgid "Year"
+msgstr "Vuosi"
+
+#: ../metaboxes/settings/settings.php:101
+msgid "Month"
+msgstr "Kuukausi"
+
+#: ../metaboxes/settings/settings.php:102
+msgid "Week"
+msgstr "Viikko"
+
+#: ../metaboxes/settings/settings.php:103
+msgid "Day"
+msgstr "Päivä"
+
+#: ../metaboxes/settings/settings.php:104
+msgid "Upcoming"
+msgstr "Tulevat"
+
+#: ../metaboxes/settings/settings.php:105
+msgid ""
+"Event list are shown by current month by default. Change this option if you "
+"want them to be shown weekly, annually or upcoming for a day range. Whatever "
+"kind of chosen option, the moment will be always shown (current year, month, "
+"day, or next upcoming events)"
+msgstr ""
+"Tapahtumat näytetään oletuksena kuukausittain. Vaihda asetus, jos haluat "
+"tapahtumien näkyvän kuukausittain, vuosittain tai tulevan päivän tapahtumat."
+
+#: ../metaboxes/settings/settings.php:107
+msgid "Force main event list date"
+msgstr "Kohdista kalenteri päivään"
+
+#: ../metaboxes/settings/settings.php:108
+msgid ""
+"This option is closely related to 'Main event list display'. It allows to "
+"show another year, month, or days other than the current ones. That is to "
+"say, you can choose which events, past or future, will be shown on the "
+"events list"
+msgstr ""
+"Kalenteri näyttää oletusarvoisesti ajankohtaiset tapahtumat. Asetuksella on "
+"mahdollista säätää mitkä tapahtumat, menneet tai tulevat, näytetään "
+"tapahtumalistauksessa."
+
+#: ../metaboxes/settings/settings.php:109
+msgid "Year: set the year to be shown. e.g. 2015"
+msgstr "Vuosi: Aseta näkyvä vuosi"
+
+#: ../metaboxes/settings/settings.php:110
+msgid ""
+"Month: set the month to be shown. e.g. if you want to show August, set 8 or "
+"08"
+msgstr "Kuukausi: Aseta kuukauden näyttötapa"
+
+#: ../metaboxes/settings/settings.php:111
+msgid ""
+"Day: set the day to be shown in format yyyy-mm-dd. e.g. 25th October would "
+"be 2014-10-25"
+msgstr "Päivä: Aseta päivämäärän näyttötapa"
+
+#: ../metaboxes/settings/settings.php:112
+msgid "Upcoming: set the day range for upcoming events. e.g. 100"
+msgstr "Tulevat: Säädä kuinka kauas tulevat tapahtumat näytetään."
+
+#: ../metaboxes/settings/settings.php:118
+msgid "Themes and Plugins compatibility"
+msgstr "Teemojen ja Lisäosien yhteensopivuus"
+
+#: ../metaboxes/settings/settings.php:120
+msgid ""
+"Create a page with Chronosly base shortcode, used when you have style "
+"incompatibilities with your theme"
+msgstr ""
+"Tee Chronosly:lle oma sivu, jolle luodaan lisäosan vaatimat koodipätkät. "
+"Käytä tätä teemayhteensopivuusongelmissa."
+
+#: ../metaboxes/settings/settings.php:121
+msgid "Create Base"
+msgstr "Luo sivu"
+
+#: ../metaboxes/settings/settings.php:122
+msgid "Delete Base"
+msgstr "Poista sivu"
+
+#: ../metaboxes/settings/settings.php:126
+msgid ""
+"This option creates a page called “chronosly base” and adds the shortcode to "
+"load your theme structure."
+msgstr ""
+"Asetus luo sivun nimeltään \"Chronosly Base\" ja lisää koodipätkät teeman "
+"rakenteeseen."
+
+#: ../metaboxes/settings/settings.php:127
+msgid ""
+"If you want more flexibility with different Chronosly pages (i.g. event list,"
+" single event, organizer), to add extra html like different headers, "
+"sidebars... you could create your own Chronosly custom template files inside "
+"your active theme."
+msgstr ""
+"Jos kaipaat joustavuutta Chronoslyn sivuihin ja listauksiin, voit luoda oman "
+"Chronosly sivupohjan oman teemasi sisälle."
+
+#: ../metaboxes/settings/settings.php:128
+msgid ""
+"More info about <a href='http://www.chronosly.com/faq/frontend/theme-style-"
+"incompatibilities/' target='_blank'>Chronosly theme style "
+"incompatibilities</a>"
+msgstr ""
+"Lisää tietoa: <a href='http://www.chronosly.com/faq/frontend/theme-style-"
+"incompatibilities/' target='_blank'>Chronosly theme style "
+"incompatibilities</a>"
+
+#: ../metaboxes/settings/settings.php:132
+msgid "Disable jquery admin"
+msgstr "Poista jQuery admin käytöstä"
+
+#: ../metaboxes/settings/settings.php:132
+msgid ""
+"Disable jquery script if another plugins adds jquery source(this will "
+"prevent incompatibilities and source code duplication)"
+msgstr ""
+"Poista jQuery käytöstä, jos joku muu lisäosa käyttää jo ennalta jQueryä. "
+"Asetus voi korjata yhteensopivuusongelmia ja poistaa tarpeetonta toistoa "
+"lähdekoodista."
+
+#: ../metaboxes/settings/settings.php:133
+msgid "Disable gmap script"
+msgstr "Poista Gmap käytöstä"
+
+#: ../metaboxes/settings/settings.php:133
+msgid ""
+"Disable Google maps script if you already have Gmap on your theme (this will "
+"prevent incompatibilities and source code duplication)"
+msgstr "Poista Google maps käytöstä, jos teemassasi on jo Gmap ladattuna."
+
+#: ../metaboxes/settings/settings.php:134
+msgid "Disable chronosly cache"
+msgstr "Poista Chronoslyn välimuisti käytöstä"
+
+#: ../metaboxes/settings/settings.php:134
+msgid "Disable Chronosly internal events cache"
+msgstr "Poista Chronoslyn välimuisti käytöstä"
+
+#: ../metaboxes/settings/settings.php:135
+msgid "Clear Cache"
+msgstr "Tyhjennä välimuisti"
+
+#: ../metaboxes/settings/settings.php:160
+msgid "Default template"
+msgstr "Oletussivupohja"
+
+#: ../metaboxes/settings/settings.php:163
+msgid ""
+"Choose the Template what will be used in the Template Editor by default. You "
+"can also change the template once your are into the Template Editor"
+msgstr ""
+"Valitse sivupohjamuokkaimen oletussivupohja. Voit valita sivupohjan myös "
+"muokkaimessa."
+
+#: ../metaboxes/settings/settings.php:164
+msgid "Force default template"
+msgstr "Pakota oletussivupohja käyttöön"
+
+#: ../metaboxes/settings/settings.php:164
+msgid ""
+"This option allows only the default template to be shown in all the views, "
+"even if they have been created by using other templates with different views"
+msgstr "Asetus sallii vain oletussivupohjan käytön näkymissä."
+
+#: ../metaboxes/settings/settings.php:165
+msgid "Calendar template"
+msgstr "Kalenterisivupohja"
+
+#: ../metaboxes/settings/settings.php:168 ../metaboxes/settings/settings.php:172
+msgid ""
+"Calendar Views can not be edited from the Template Editor. You can choose "
+"which will be the default template for the three Calendar Views of year, "
+"month and week."
+msgstr ""
+"Kalenterinäkymää ei voida muokata Sivupohjamuokkaimessa. Voit valita "
+"oletussivupohjan erikseen vuosi, kuukausi ja viikkonäkymille."
+
+#: ../metaboxes/settings/settings.php:169
+msgid "Navigation template"
+msgstr "Navigaation sivupohja"
+
+#: ../metaboxes/settings/settings.php:174
+msgid "Min. event width"
+msgstr "Tapahtuman minimileveys"
+
+#: ../metaboxes/settings/settings.php:176
+msgid "Set the minimum event width of your events and the rest of Chronosly views."
+msgstr "Pienin mahdollinen tapahtuman leveys Chronoslyn näkymissä."
+
+#: ../metaboxes/settings/settings.php:177
+msgid ""
+"Note that if you set a minimum px which is too low you may have problens "
+"with the Responsive versions (only if you have chosen a template optimized "
+"for Mobile devices)"
+msgstr ""
+"Huom. Jos säädät rajat liian kapeiksi, responsiivisten versioiden ulkoasussa "
+"voi ilmetä ongelmia."
+
+#: ../metaboxes/settings/settings.php:178
+msgid "The minimum set is not fixed, and it depends on the applied template."
+msgstr "Arvo ei ole kiinteä, sen soveltaminen käytäntöön riippuu sivupohjasta."
+
+#: ../metaboxes/settings/settings.php:179 ../metaboxes/settings/settings.php:186
+msgid ""
+"We recommend to check, that once the minimum is modified, the different "
+"views of the template you are using are correctly shown"
+msgstr ""
+"Arvon muutoksen jälkeen kannattaa tarkistaa sivupohjan eri näkymät, ja "
+"varmistaa sisällön näkyvän halutulla tavalla."
+
+#: ../metaboxes/settings/settings.php:181
+msgid "Max. event width"
+msgstr "Suurin mahdollinen tapahtuman leveys"
+
+#: ../metaboxes/settings/settings.php:183
+msgid "Set the maximum event width of your events and the rest of Chronosly views."
+msgstr "Aseta tapahtuman maksimileveys Chronoslyn näkymissä."
+
+#: ../metaboxes/settings/settings.php:184
+msgid ""
+"Note that if you modify this options you may have problens with the "
+"Responsive versions (only if you have chosen a template optimized for Mobile "
+"devices)"
+msgstr "Huom. Arvon muuttaminen saattaa aiheuttaa ongelmia responsiivissa näkymissä."
+
+#: ../metaboxes/settings/settings.php:185
+msgid "The maximum set is not fixed, and it depends on the applied template."
+msgstr ""
+"Maksimiarvo ei ole kiinteä, soveltaminen käytäntöön riippuu käytetystä  "
+"sivupohjasta."
+
+#: ../metaboxes/settings/settings.php:190
+msgid "Default category color"
+msgstr "Kategorian oletusväri"
+
+#: ../metaboxes/settings/settings.php:190
+msgid ""
+"This is the default color for all categories, you can individually set "
+"category color inside the category editor"
+msgstr ""
+"Kaikki kategoriat näkyvät oletuksena tämän välrisenä. Voit säätää eri "
+"kategorioille sävyt erikseen."
+
+#: ../metaboxes/settings/settings.php:191
+msgid "Show load template"
+msgstr "Sivupohjan lataus näkyvissä"
+
+#: ../metaboxes/settings/settings.php:193
+msgid ""
+"The option of load template is enabled by default, so different templates "
+"can be chosen and loaded in the Template editor"
+msgstr ""
+"Sivupohjan lataus näkyy oletuksena, mahdollistaa eri sivupohjien valinnan ja "
+"lataamisen muokkaustyökaluun."
+
+#: ../metaboxes/settings/settings.php:194 ../metaboxes/settings/settings.php:200
+msgid ""
+"This option is especially useful to prevent other users (team members or "
+"clients) from changing or modifying how the events are shown in the site"
+msgstr ""
+"Valinnalla voidaan estää käyttäjiä muuttamasta tapahtuman näkymiä ja "
+"asetuksia."
+
+#: ../metaboxes/settings/settings.php:197
+msgid "Show load view"
+msgstr "Näkymän lataus näkyvissä"
+
+#: ../metaboxes/settings/settings.php:199
+msgid ""
+"The option of select view is enabled by default, so different templates "
+"views can be chosen in the Template editor"
+msgstr ""
+"Näkymän lataus näkyy oletuksena, mahdollistaa eri näkymien valinnan "
+"muokkaustyökalussa."
+
+#: ../metaboxes/settings/settings.php:203
+msgid "Formats "
+msgstr "Muotoilu"
+
+#: ../metaboxes/settings/settings.php:205
+msgid "Default Time format"
+msgstr "Aikamuodon asetus"
+
+# tempalte > template
+#: ../metaboxes/settings/settings.php:205
+msgid ""
+"Set display time format for tempalte editor. This option does not modify the "
+"format set in your template"
+msgstr ""
+"Aseta ajan näyttömuoto sivupohjan muokkaimeen. Valinta ei tee muutoksia "
+"sivupohjan aikamuodon asetuksiin."
+
+#: ../metaboxes/settings/settings.php:206
+msgid "Default Date format"
+msgstr "Päivämäärän muoto (oletus)"
+
+#: ../metaboxes/settings/settings.php:206
+msgid ""
+"Set display date format for template editor. This option does not modify the "
+"format set in your template"
+msgstr ""
+"Aseta oletusaikamuoto sivupohjaeditoriin. Asetus ei tee muutoksia "
+"sivupohjaan."
+
+#: ../metaboxes/settings/settings.php:207
+msgid "Default DateTime format"
+msgstr "Päivämäärän ja ajan muoto (oletus)"
+
+#: ../metaboxes/settings/settings.php:207
+msgid ""
+"Set display time and date format for template editor. This option does not "
+"modify the format set in your template"
+msgstr ""
+"Aseta oletusaikamuoto sekä ajalle että päivämäärälle sivupohjaeditoriin. "
+"Valinta ei tee muutoksia sivupohjiin."
+
+#: ../metaboxes/settings/settings.php:208
+msgid "Full DateTime separator"
+msgstr "Päivämäärän ja ajan erotin"
+
+#: ../metaboxes/settings/settings.php:210
+msgid ""
+"By default 'to' is set as in 11:00 to 19:00. Set custom date-time separator "
+"with dashes '-' '/' or pipes '|' or your custom html code"
+msgstr "Aseta omavalintainen erotin päivämäärälle ja ajalle."
+
+#: ../metaboxes/settings/settings.php:228
+msgid "Categories separator"
+msgstr "Kategorioiden erotin"
+
+#: ../metaboxes/settings/settings.php:228
+msgid ""
+"Default Categories separator is ,(comma). Set up how categories should be "
+"shown between them."
+msgstr ""
+"Oletuksena kategoriat erotetaan pilkulla. Aseta halutessasi omavalintainen "
+"erotin."
+
+#: ../metaboxes/settings/settings.php:229
+msgid "Tags separator"
+msgstr "Avainsanojen erotin"
+
+#: ../metaboxes/settings/settings.php:229
+msgid ""
+"Default Tags separator is ,(comma). Set up how categories should be shown "
+"between them."
+msgstr ""
+"Oletuksena avainsanat erotetaan pilkulla. Aseta halutessasi omavalintainen "
+"erotin"
+
+#: ../metaboxes/settings/settings.php:230
+msgid "Default gmap zoom"
+msgstr "Oletusetäisyys Googlen kartoissa"
+
+#: ../metaboxes/settings/settings.php:232
+msgid ""
+"Default Google maps zoom is 16. Zoom levels between 0 (the lowest zoom level,"
+" in which the entire world can be seen on one map) and 21+ (down to streets "
+"and individual buildings)."
+msgstr ""
+"Oletusetäisyys on 16. Kaukaisin asetus on 0 (näyttää koko maailman kartalla) "
+"ja läheisin on 21+ (katutaso)"
+
+#: ../metaboxes/settings/settings.php:233
+msgid ""
+"You can find more information in <a href='https://developers.google."
+"com/maps/documentation/staticmaps/?hl=en#Zoomlevels' target='_blank'>Google "
+"Maps help site</a>"
+msgstr ""
+"Lisää tietoa: <a href='https://developers.google."
+"com/maps/documentation/staticmaps/?hl=en#Zoomlevels' target='_blank'>Google "
+"Maps</a>"
+
+#: ../metaboxes/settings/settings.php:250
+msgid ""
+"Slugs are meant to be used with permalinks as they help describe what the "
+"content at the URL is."
+msgstr ""
+"Polkutunnuksia käytetään linkkien osina, jotta sivun osoite kuvaisi sivun "
+"sisältöä."
+
+#: ../metaboxes/settings/settings.php:251
+msgid ""
+"Slugs are a few words that describe an event or a page and can be anything "
+"you like."
+msgstr ""
+"Polkutunnukset koostuvat muutamasta tapahtumaa tai sivua kuvaavasta sanasta, "
+"ne voivat olla mitä hyvänsä."
+
+#: ../metaboxes/settings/settings.php:252
+msgid "More info about slugs"
+msgstr "Lisää tietoa polkutunnuksista"
+
+#: ../metaboxes/settings/settings.php:253
+msgid "More info about permalinks"
+msgstr "Lisää tietoa kestolinkeistä"
+
+#: ../metaboxes/settings/settings.php:265
+msgid "Tag"
+msgstr "Avainsana"
+
+#: ../metaboxes/settings/settings.php:268
+msgid "Url for lists"
+msgstr "Osoite listaukselle"
+
+#: ../metaboxes/settings/settings.php:269
+msgid "Events list"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:272
+msgid "When you are inside an event this will be te url to go back to event list"
+msgstr "Linkki, joka johtaa tapahtumanäkymästä takaisin tapahtumalistaukseen."
+
+#: ../metaboxes/settings/settings.php:274
+msgid "Main event list title"
+msgstr "Päätapahtumalistan otsikko"
+
+#: ../metaboxes/settings/settings.php:277
+msgid "Title for url to go back to event list"
+msgstr "Paluulinkin otsikko"
+
+#: ../metaboxes/settings/settings.php:284
+msgid ""
+"When you are inside an organizer this will be te url to go back to "
+"organizers list"
+msgstr "Linkki, joka johtaa järjestäjänäkymästä takaisin järjestäjälistaan"
+
+#: ../metaboxes/settings/settings.php:286
+msgid "Organizers list title"
+msgstr "Järjestäjälistan otsikko"
+
+#: ../metaboxes/settings/settings.php:289
+msgid "Title for url to go back to organizers list"
+msgstr "Paluulinkin otsikko"
+
+#: ../metaboxes/settings/settings.php:294
+msgid "When you are inside a place this will be te url to go back to places list"
+msgstr "Linkki, joka kohtaa paikkanäkymästä takaisin paikkalistaan"
+
+#: ../metaboxes/settings/settings.php:296
+msgid "Places list title"
+msgstr "Paikkalistan otsikko"
+
+#: ../metaboxes/settings/settings.php:299
+msgid "Title for url to go back to places list"
+msgstr "Paluulinkin otsikko"
+
+#: ../metaboxes/settings/settings.php:306
+msgid "This will be the url for the calendar icon, usefull for navigate to calendar"
+msgstr "Kalenteri-ikonin osoite, kätevä kalenterinavigoinnin kannalta."
+
+#: ../metaboxes/settings/settings.php:318
+msgid "Chronosly status"
+msgstr "Chronoslyn tila"
+
+#: ../metaboxes/settings/settings.php:321
+msgid "License Key"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:323
+msgid ""
+"License key validation is the procedure of verifying that the plugin license "
+"is valid and being used in accordance with Chronosly terms and conditions "
+"agreement."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:324
+msgid ""
+"This key is provided when you buy Chronosly from Codecanyon  and allows "
+"plugin updates and assistance during 1 year"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:325
+msgid ""
+"For further infomation on License key validation visit specific <a "
+"href='http://www.chronosly.com/faq/settings/set-license-key/' "
+"target='_blank'>FAQ Licence key section</a>."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:327
+msgid "Automatic core updates"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:329
+msgid ""
+"By default this option is disabled. Mark it if you want Chronosly plugin to "
+"be automatically updated when a new version is released."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:330
+msgid "For further informations visit FAQ Chronosly plugin updates"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:333
+msgid "Automatic templates updates"
+msgstr "Automaattiset sivupohjapäivitykset"
+
+#: ../metaboxes/settings/settings.php:335
+msgid ""
+"By default this option is disabled. Mark it if you want Chronosly templates "
+"to be automatically updated when a new version is released."
+msgstr ""
+"Oletuksena päivitykset on estetty. Lisää ruksi, jos haluat sivupohjien "
+"päivittyvän automaattisesti, kun uusi versio on julkaistu."
+
+#: ../metaboxes/settings/settings.php:340
+msgid "Addons status"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:344
+msgid "Automatic addons updates"
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:346
+msgid ""
+"By default this option is disabled, it's set individually inside each addon "
+"settings page. Mark it if you want your all Chronosly addons  to be "
+"automatically updated when a new version is released."
+msgstr ""
+
+#: ../metaboxes/settings/settings.php:347
+msgid ""
+"For further informations visit section <a href='admin.php?"
+"page=chronosly_addons_configs'>Addons setting</a> in Chronosly tab or FAQ "
+"Chronosly plugin updates."
+msgstr ""
+
+#: ../metaboxes/settings/support.php:4
+msgid "Leave a codecanyon ticket"
+msgstr "Jätä Codecanyon tukipyyntö"
+
+#: ../metaboxes/settings/support.php:6
+msgid "or"
+msgstr "tai"
+
+#: ../metaboxes/settings/support.php:7
+msgid "Send us a form"
+msgstr "Käytä viestikaavaketta"
+
+#: ../metaboxes/settings/support.php:11 ../metaboxes/settings/support.php:21 ..
+#: metaboxes/settings/support.php:33 ../metaboxes/settings/support.php:47 ..
+#: metaboxes/settings/support.php:54 ../metaboxes/settings/support.php:61 ..
+#: metaboxes/settings/welcome.php:71 ../metaboxes/settings/welcome.php:81 ..
+#: metaboxes/settings/welcome.php:93 ../metaboxes/settings/welcome.php:118 ..
+#: metaboxes/settings/welcome.php:128 ../metaboxes/settings/welcome.php:138 ..
+#: metaboxes/settings/welcome.php:149 ../metaboxes/settings/welcome.php:156 ..
+#: metaboxes/settings/welcome.php:164
+msgid "General info"
+msgstr "Yleinen kuvaus"
+
+#: ../metaboxes/settings/support.php:19 ../metaboxes/settings/welcome.php:79 ..
+#: metaboxes/settings/welcome.php:126
+msgid "Frontend"
+msgstr "Käyttäjän näkymä"
+
+#: ../metaboxes/settings/support.php:22 ../metaboxes/settings/welcome.php:82 ..
+#: metaboxes/settings/welcome.php:129
+msgid "Event views"
+msgstr "Tapahtumat"
+
+#: ../metaboxes/settings/support.php:23 ../metaboxes/settings/welcome.php:83 ..
+#: metaboxes/settings/welcome.php:130
+msgid "Calendar views"
+msgstr "Kalenteri"
+
+#: ../metaboxes/settings/support.php:24 ../metaboxes/settings/welcome.php:84 ..
+#: metaboxes/settings/welcome.php:131
+msgid "Categories views"
+msgstr "Kategoriat"
+
+#: ../metaboxes/settings/support.php:25 ../metaboxes/settings/welcome.php:85 ..
+#: metaboxes/settings/welcome.php:132
+msgid "Organizers views"
+msgstr "Järjestäjät"
+
+#: ../metaboxes/settings/support.php:26 ../metaboxes/settings/welcome.php:86 ..
+#: metaboxes/settings/welcome.php:133
+msgid "Places views"
+msgstr "Paikkaa katsottu"
+
+#: ../metaboxes/settings/support.php:27
+msgid "Shortcodes"
+msgstr "Koodipätkät"
+
+#: ../metaboxes/settings/support.php:28
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: ../metaboxes/settings/support.php:34 ../metaboxes/settings/welcome.php:139
+msgid "Templates and views"
+msgstr "Sivupohjat ja Näkymät"
+
+#: ../metaboxes/settings/support.php:35 ../metaboxes/settings/welcome.php:140
+msgid "Drag & Drop"
+msgstr "Raajaa & Pudota"
+
+#: ../metaboxes/settings/support.php:36 ../metaboxes/settings/welcome.php:141
+msgid "Editing tools"
+msgstr "Muokkaustyökalut"
+
+#: ../metaboxes/settings/support.php:37 ../metaboxes/settings/welcome.php:142
+msgid "Template status"
+msgstr "Sivupohjan tila"
+
+#: ../metaboxes/settings/support.php:38
+msgid "Set read/write permissions"
+msgstr "Aseta luku- ja kirjoitusoikeudet"
+
+#: ../metaboxes/settings/support.php:39 ../metaboxes/settings/support.php:55 ..
+#: metaboxes/settings/welcome.php:157
+msgid "Custom templates"
+msgstr "Mukautetut Sivupohjat"
+
+#: ../metaboxes/settings/support.php:40
+msgid "Theme incompatibilities"
+msgstr "Teeman yhteensopivuus"
+
+#: ../metaboxes/settings/support.php:41
+msgid "Edited templates - Troubleshooting"
+msgstr "Mukautetut Sivupohjat - Vianmääritys"
+
+#: ../metaboxes/settings/support.php:45 ../metaboxes/settings/welcome.php:89 ..
+#: metaboxes/settings/welcome.php:147
+msgid "Addons"
+msgstr "Lisäosat"
+
+#: ../metaboxes/settings/support.php:48 ../metaboxes/settings/welcome.php:150
+msgid "Addons and custom templates synergy"
+msgstr "Lisäosien ja Sivupohjien yhteensopivuus"
+
+#: ../metaboxes/settings/support.php:49 ../metaboxes/settings/welcome.php:151
+msgid "Addons marketplace"
+msgstr "Osta Lisäosia"
+
+#: ../metaboxes/settings/support.php:56 ../metaboxes/settings/welcome.php:158
+msgid "Templates marketplace"
+msgstr "Osta Sivupohjia"
+
+#: ../metaboxes/settings/support.php:62 ../metaboxes/settings/welcome.php:94 ..
+#: metaboxes/settings/welcome.php:165
+msgid "Change profile Basic or Advanced"
+msgstr "Vaihda käyttäjäprofiilia (Perus tai Edistynyt)"
+
+#: ../metaboxes/settings/support.php:63 ../metaboxes/settings/welcome.php:95 ..
+#: metaboxes/settings/welcome.php:166
+msgid "Set license key"
+msgstr "Syötä lisenssiavain"
+
+#: ../metaboxes/settings/support.php:64 ../metaboxes/settings/welcome.php:96 ..
+#: metaboxes/settings/welcome.php:167
+msgid "Set default template"
+msgstr "Aseta oletussivupohja"
+
+#: ../metaboxes/settings/support.php:65 ../metaboxes/settings/welcome.php:97 ..
+#: metaboxes/settings/welcome.php:168
+msgid "Set default event list view"
+msgstr "Aseta tapahtuman oletusnäkymä"
+
+#: ../metaboxes/settings/support.php:66 ../metaboxes/settings/welcome.php:98 ..
+#: metaboxes/settings/welcome.php:169
+msgid "Set default currency"
+msgstr "Aseta oletusrahayksikkö"
+
+#: ../metaboxes/settings/support.php:67 ../metaboxes/settings/welcome.php:99 ..
+#: metaboxes/settings/welcome.php:170
+msgid "Set custom urls"
+msgstr "Aseta mukautettu linkki"
+
+#: ../metaboxes/settings/support.php:68 ../metaboxes/settings/welcome.php:100 ..
+#: metaboxes/settings/welcome.php:171
+msgid "Set formats"
+msgstr "Aseta muotoilu"
+
+#: ../metaboxes/settings/support.php:69 ../metaboxes/settings/welcome.php:172
+msgid "Set editing tools config"
+msgstr "Muokkaustyökalujen asetukset"
+
+#: ../metaboxes/settings/welcome.php:35
+msgid "Welcome to"
+msgstr "Tervetuloa "
+
+# Duplicate string? (see 25)
+#: ../metaboxes/settings/welcome.php:41
+msgid ""
+"Don't worry about anything, just upload your events very easily. Templates "
+"and extra addons are available in our marketplace"
+msgstr "Huoleton ja helppokäyttöinen hallinta"
+
+#: ../metaboxes/settings/welcome.php:42 ../metaboxes/settings/welcome.php:49
+msgid "select"
+msgstr "valitse"
+
+#: ../metaboxes/settings/welcome.php:48
+msgid "Take control of everything."
+msgstr "Ota homma haltuun! Kaikki sivupohjat, näkymät ja ominaisuudet muokattavissa."
+
+#: ../metaboxes/settings/welcome.php:48
+msgid ""
+"Make your own templates or edit the predefined ones with our editing drag "
+"&drop system"
+msgstr ""
+"Tee oma sivupohja tai muokkaa esimääriteltyjä sivupohjia mukautus- ja "
+"järjestelytyökalullamme."
+
+#: ../metaboxes/settings/welcome.php:67 ../metaboxes/settings/welcome.php:114
+msgid "version"
+msgstr "versio"
+
+#: ../metaboxes/settings/welcome.php:67 ../metaboxes/settings/welcome.php:114
+msgid "Create my first event"
+msgstr "Luo ensimmäinen Tapahtuma"
+
+#: ../metaboxes/settings/addons-settings.php:102
+msgid "Addon successfully installed!"
+msgstr "Lisäosan asennus onnistui!"
+
+#: ../metaboxes/settings/addons-settings.php:106
+msgid "Addon successfully removed!"
+msgstr "Lisäosan poisto onnistui!"
+
+#: ../metaboxes/settings/addons-settings.php:107
+msgid "Upload addon"
+msgstr "Siirrä lisäosa"
+
+#: ../metaboxes/settings/addons-settings.php:113 ../metaboxes/settings/template-
+#: editor.php:19
+msgid "Upload"
+msgstr "Siirrä"
+
+#: ../metaboxes/settings/template-editor.php:9
+msgid "Template successfully installed!"
+msgstr "Sivupohjan asennus onnistui!"
+
+#: ../metaboxes/settings/template-editor.php:10
+msgid "Check"
+msgstr "Hyväksy"
+
+#: ../metaboxes/settings/template-editor.php:10
+msgid "Addons Configs"
+msgstr "Lisäosien asetukset"
+
+#: ../metaboxes/settings/template-editor.php:10
+msgid "to ensure that all addons are ready for the template."
+msgstr "varmista lisäosien toimivuus Sivupohjassa."
+
+#: ../metaboxes/settings/template-editor.php:13
+msgid "Upload template"
+msgstr "Lataa sivupohja"
+
+#: ../metaboxes/settings/template-editor.php:23
+msgid "Clone template"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:28
+msgid "Clone"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:31
+msgid "Create new template"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:34
+msgid "Create"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:35
+msgid "Save all html templates"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:38
+msgid "Edit templates"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:42
+msgid "Update your custom templates to integrate this addon"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:43
+msgid "Your custom edited templates have to be manually edited."
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:44
+msgid ""
+"You have to insert where you want the new addon element via drag and drop, "
+"and customize the style(css or template editor)."
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:55
+msgid "Select the template you want to edit"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:60
+msgid "Delete template"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:61
+msgid "Confirm to delete this template, you can't recover it"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:65
+msgid "Update all templates that you are using in your events"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:67
+msgid "You can find all templates that are working in your events in "
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:67
+msgid "Templates Status"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:71
+msgid "Select the view you want to edit"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:84
+msgid ""
+"This views needs your approval, save changes on every view when they are "
+"ready"
+msgstr ""
+
+#: ../metaboxes/settings/template-editor.php:89
+msgid "Save changes"
+msgstr ""
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:23
+msgid "A view is how your event is shown in each website navigation section."
+msgstr "Näkymä määrittää Tapahtuman asettelun sivuston valikko-osioissa."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:24
+msgid "It allows you to thoroughly customize how each event behaves in each section."
+msgstr "Voit määrittää Tapahtumien asettelun ja toiminnot eri osioissa"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:28
+msgid ""
+"In your website, events have 6 different views, even if the 2 first ones are "
+"the most important (General View, and Inner page View)"
+msgstr ""
+"Tapahtumilla on kuusi erilaista Näkymää, ensimmäiset kaksi ovat tärkeimmät "
+"(Yleinen näkymä, Sivunäkymä)."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:30
+msgid "1- General View: it is the main view where all the events are displayed"
+msgstr "1- Yleinen näkymä: Kaikkien tapahtumien päänäkymä"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:32
+msgid ""
+"2- Inner page view: it is the inner view of your event, a single page on the "
+"event, where all the information is shown"
+msgstr "2- Sivunäkymä: Tapahtumien oman sivun näkymä"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:34
+msgid ""
+"3- Calendar view: customize how you want to show your event in the calendar "
+"page"
+msgstr "3- Kalenterinäkymä: Mukauta tapahtuman asettelua Kalenterissa"
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:36
+msgid ""
+"4- Category view: each category page has a list with all the events of that "
+"category. You can customize your event and define its list view"
+msgstr ""
+"4- Kategorianäkymä: Jokaisella Kategoria-sivulla on listattuna kaikki "
+"Kategorian tapahtumat. Voit mukauttaa tapahtuman näkymää."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:38
+msgid ""
+"5- Organizer view: each organizer page has a list with the organizer's "
+"events. You can customize your event and define its list view"
+msgstr ""
+"5- Järjestäjänäkymä: Mukauta tapahtuman asettelua Järjestäjän "
+"tapahtumasivulla."
+
+#: ../metaboxes/dad1/chronosly_dad1_select_metabox.php:40
+msgid ""
+"6- Place view: each place page has a list with all the events that take "
+"place in that place. you can customize your event and define its list view"
+msgstr ""
+"6- Paikkanäkymä: Mukauta tapahtumapaikan mukaan listattujen kohteiden "
+"näkymää."
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:22
+msgid "A view is how the organizer is shown in each website navigation section."
+msgstr "Näkymä määrittää miten järjestäjä näkyy sivuston navigoinnissa."
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:23
+msgid ""
+"It allows you to thoroughly customize how each organizer behaves in each "
+"section"
+msgstr "Se sallii läpikotaisen mukauttamisen jokaiselle järjestäjälle"
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:27
+msgid "In your website the organizers have 2 different views"
+msgstr "Sivustolla järjestäjällä on kaksi erillistä näkymää käytössä."
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:29
+msgid ""
+"1- General View: customize how the organizer is displayed in the list of "
+"organizers"
+msgstr "1- Yleinen näkymä: Mukauta kuinka järjestäjä näkyy järjestäjälistalla"
+
+#: ../metaboxes/dad7/chronosly_organizer_dad7_select_metabox.php:31
+msgid ""
+"2- Inner page view: it is the inner view of your organizer, a single page on "
+"the organizer, where all the information is shown."
+msgstr ""
+"2- Sivunäkymä: Mukauta kuinka järjestäjän tiedot näkyvät yksittäisellä "
+"sivulla"
+
+#: ../metaboxes/marketplace/templates.php:9
+msgid "Download Custom Templates, choose and apply"
+msgstr "Lisää sivupohjia, valitse ja ota käyttöön"
+
+#: ../metaboxes/marketplace/templates.php:10
+msgid ""
+"Chronosly is designed to be easy for all users. Customized Templates can be "
+"chosen to better fit your web site."
+msgstr ""
+"Chronosly on suunniteltu helppokäyttöiseksi kaikille. Lisäsivupohjilla "
+"saadaan lisäosa sulautumaan sivustoosi."
+
+#: ../metaboxes/marketplace/templates.php:21 ../metaboxes/marketplace/addons.php:17
+msgid "Popular"
+msgstr "Suositut"
+
+#: ../metaboxes/marketplace/templates.php:22 ../metaboxes/marketplace/addons.php:18
+msgid "Best rated"
+msgstr "Parhaiten arvostellut"
+
+#: ../metaboxes/marketplace/templates.php:23 ../metaboxes/marketplace/addons.php:19
+msgid "Newer"
+msgstr "Uusimmat"
+
+#: ../metaboxes/marketplace/addons.php:6
+msgid "Addons - Chronosly extended features"
+msgstr "Lisäosat - Chronoslyn laajennukset"
+
+# Evebtbrite > Eventbrite
+#: ../metaboxes/marketplace/addons.php:7
+msgid ""
+"Chronosly addons allow to extend the basic funcionalities for the WordPress "
+"event calendar plugin, like social media sharing, rating and reviews, "
+"Evebtbrite ticketing, importing from Google Calendar or Facebook and much "
+"more."
+msgstr ""
+"Chronoslyn lisäosat sallivat toimintojen laajentamisen. Lisäosista löytyy mm."
+" sosiaalisen median jakomahdollisuus, arvostelut, Google kalenterin "
+"integroinnit, yms."

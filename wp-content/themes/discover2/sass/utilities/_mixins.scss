@@ -1,0 +1,49 @@
+// ==========================================================================
+// Mixins
+// Thanks to @sutterlity
+// https://github.com/sutter/POPY-Starter-integration-web/blob/master/scss/tools/_mixins.scss
+// ==========================================================================
+
+
+
+@mixin btn($color-background, $color-text: #fff) {
+  background-color: $color-background;
+  border-color: darken($color-border, 6%);
+  color: $color-text;
+}
+
+
+@mixin mq($breakpoint, $query: 'min-width', $type: 'screen') { // breakpoint can be a variable
+  // if media queries are not supported
+  @if $fix-mqs {
+    @if $fix-mqs >= $breakpoint { // ...and if the fixed breakpoint is greater than query...
+      @content; // ...output the content the user gave us.
+    }
+  }
+  // Otherwise, output it using a regular media query
+  @else {
+    @media #{$type} and (#{$query}: #{$breakpoint}) { @content; }
+  }
+ }
+
+
+
+@mixin sticky-footer($footer_height, $root_selector:".content-fullscreen", $footer_selector:"footer") {
+  html, body {height: 100%;}
+  #{$root_selector} {
+    width: 100%;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -#{$footer_height};
+  }
+  #{$root_selector}:after {
+    content: "";
+    display: block;
+  }
+  #{$footer_selector}, #{$root_selector}:after{
+    clear: both;
+    position: relative;
+    height: #{$footer_height};
+  }
+}
