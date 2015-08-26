@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcp-openweather-theme\n"
+"POT-Creation-Date: 2015-08-03 14:27+0300\n"
+"PO-Revision-Date: 2015-08-03 14:27+0300\n"
+"Last-Translator: - <->\n"
+"Language-Team: Webcodin <info@webcodin.com>\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/RPw_Theme.class.php:40
+msgid "Default Theme"
+msgstr "Тема за замовчуванням"
+
+#: classes/widget/RPw_Weather.class.php:17
+msgid "Adds weather to sidebar"
+msgstr "Додає погоду до сайдбару"
+
+#: classes/widget/RPw_Weather.class.php:18
+msgid "WCP Weather"
+msgstr "WCP Weather"
+
+#: classes/widget/RPw_Weather.class.php:118
+msgid "Title"
+msgstr "Тема"
+
+#: classes/widget/RPw_Weather.class.php:127
+msgid "Template"
+msgstr "Шаблон"
+
+#: classes/widget/RPw_Weather.class.php:144
+msgid "Show current weather"
+msgstr "Поточний прогноз"
+
+#: classes/widget/RPw_Weather.class.php:151
+msgid "Show 5 day forecast"
+msgstr "П'ятиденний прогноз"
+
+#: classes/widget/RPw_Weather.class.php:157
+msgid "City"
+msgstr "Місто"
+
+#: classes/widget/RPw_Weather.class.php:159
+msgid ""
+"You can find you city name on <a href=\"http://www.openweathermap.com/\" "
+"title=\"http://www.openweathermap.com/\" target=\"_blank\">www."
+"openweathermap.com</a>."
+msgstr ""
+"Ви можете знайти ваше місто на <a href=\"http://www.openweathermap.com/\" "
+"title=\"http://www.openweathermap.com/\" target=\"_blank\">www."
+"openweathermap.com</a>."
+
+#: classes/widget/RPw_Weather.class.php:175
+msgid "Temperature"
+msgstr "Температура"
+
+#: classes/widget/RPw_Weather.class.php:194
+msgid "Wind Speed"
+msgstr "Швидкість вітру"
+
+#: classes/widget/RPw_Weather.class.php:213
+#: templates/shortcode/wcp_weather/default/forecast.php:16
+#: templates/shortcode/wcp_weather/default/now.php:38
+#: templates/shortcode/wcp_weather/compact/now.php:38
+msgid "Pressure"
+msgstr "Тиск"
+
+#: classes/widget/RPw_Weather.class.php:229
+msgid "Enable user settings"
+msgstr "Дозволити опції користувача"
+
+#: classes/widget/RPw_Weather.class.php:236
+msgid "Hide description of the weather conditions"
+msgstr "Приховати опис погодних умов"
+
+#: classes/widget/RPw_WeatherMini.class.php:15
+msgid "Adds mini weather to sidebar"
+msgstr "Додає міні-погоду до сайдбару"
+
+#: classes/widget/RPw_WeatherMini.class.php:16
+msgid "WCP Weather Mini"
+msgstr "WCP Weather Mini"
+
+#: config/admin-options-fields.php:12
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: config/admin-options-fields.php:22
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: templates/widget/wcp_weather_widget/default/nodata.php:3
+#: templates/widget/wcp_weather_widget/compact/nodata.php:3
+#: templates/widget/wcp_weather_mini_widget/default/nodata.php:3
+#: templates/shortcode/wcp_weather/default/nodata.php:3
+#: templates/shortcode/wcp_weather/compact/nodata.php:3
+msgid "Ooops! Nothing was found!"
+msgstr "Упс! Нічого не знайдено!"
+
+#: templates/widget/wcp_weather_mini_widget/default/forecast.php:11
+#: templates/shortcode/wcp_weather/default/forecast.php:11
+msgid "Day"
+msgstr "День"
+
+#: templates/widget/wcp_weather_mini_widget/default/forecast.php:12
+#: templates/shortcode/wcp_weather/default/forecast.php:12
+msgid "Cond."
+msgstr "Умови"
+
+#: templates/widget/wcp_weather_mini_widget/default/forecast.php:13
+#: templates/shortcode/wcp_weather/default/forecast.php:13
+msgid "Temp."
+msgstr "Темп."
+
+#: templates/shortcode/wcp_weather/default/forecast.php:14
+#: templates/shortcode/wcp_weather/default/now.php:26
+#: templates/shortcode/wcp_weather/compact/now.php:26
+msgid "Wind"
+msgstr "Вітер"
+
+#: templates/shortcode/wcp_weather/default/forecast.php:15
+#: templates/shortcode/wcp_weather/default/now.php:32
+#: templates/shortcode/wcp_weather/compact/now.php:32
+msgid "Humidity"
+msgstr "Вологість"
+
+#: templates/shortcode/wcp_weather/default/forecast.php:16
+msgid "Pres."
+msgstr "Тиск"
+
+# You can change current theme here.
+#: templates/admin/options/layout.php:13
+msgid ""
+"You can change current theme <a href=\"/wp-admin/admin.php?page=wcp-"
+"weather&tab=plugin-settings\">here</a>."
+msgstr ""
+"Ви можете змінити поточну тему <a href=\"/wp-admin/admin.php?page=wcp-"
+"weather&tab=plugin-settings\">тут</a>."
+
+#: templates/admin/options/layout.php:29
+msgid "Save Changes"
+msgstr "Зберегти"
+
+#: templates/admin/options/layout.php:30
+msgid "Reset to Default"
+msgstr "Налаштування за замовчуванням"
+
+#~ msgid "Default"
+#~ msgstr "За замовчуванням"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Налаштування теми"
+
+#~ msgid "Conditions"
+#~ msgstr "Умови"

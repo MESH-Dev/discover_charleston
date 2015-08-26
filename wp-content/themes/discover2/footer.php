@@ -20,8 +20,13 @@
 
 </div><!-- col -->
 
+
 <!-- col --><div class="col bgcol2 wheather-col"><div class="colwrap">
-	<h4>WEATHER / TEMPERATURE FEED </h4>
+
+	<h4><?php echo get_field('event_title'); ?></h4><!-- WEATHER / TEMPERATURE FEED  -->
+	<p style="text-align:center; text-transform:uppercase;"><a href="<?php echo get_field('link'); ?>"><?php echo get_field('event_description'); ?></a></p>
+
+
 <?php//echo do_shortcode('[wpc-weather id="22"]'); ?>
 	</div>
 </div><!-- col -->
@@ -104,5 +109,6 @@ jQuery( document ).ready(function() {
 
 </script>
 <?php wp_footer(); ?>
+
 </body>
 </html>

@@ -276,13 +276,15 @@ h1{
 	padding: 0;  
 	list-style: none; 
 	position:absolute;
-	right:1em; 
+	right:1em;
+	/*top:20px;*/
 	/*//float:right; */
-	margin: 20px 0px 0px 0px; }
+	/*margin: 20px 0px 0px 0px;*/ }
 
 .social li {
   display: inline-block;
   margin: 0 2px  0 0;
+  vertical-align:top;
 }
 .social li .fa:hover {
 	opacity: 0.6;
@@ -441,9 +443,9 @@ button:hover{
 
 
  
- .wpc-22 .now { display: flex!important;    justify-content: space-between!important;  }
+ .wpc-22 .now {/* display: flex!important;    justify-content: space-between!important; */ }
  .wpc-22 .now  > div {   text-align:left!important;  width: 70px!important;  height: 23px!important; font-size:12px; margin:0px 6px!important; }
- .wpc-22 .now  > .climacon {  margin-top:-17px!important; }
+ .wpc-22 .now  > .climacon {  margin-top:-27px!important; }
 
 /* Below added to stylesheet by Michael Cazad 7/2/15 - See + Do page and Deals*/
 
@@ -530,6 +532,40 @@ button:hover{
         text-shadow: 1px 1px #000000;
 }
 
+/*Weather widget*/
+
+#wpc-weather{
+	/*background:black;*/
+	margin:0 !important;
+	padding:0 !important;
+	font-family: "oswald_regularregular" !important; 
+	/*margin-top:-10px !important;*/
+	/*color:white !important;*/
+}
+
+#wpc-weather .location_name{
+	display:none;
+	visibility:hidden;
+}
+
+#wpc-weather.small .now .time_symbol svg{width:39px !important;}
+
+.wpc-22 .now > div{
+	width:30px !important;
+	vertical-align:top;
+	display:inline-block !important;
+	margin-top:-10px !important;
+}
+
+#wpc-weather.small .now .time_temperature:after, #wpc-weather .forecast .temp_max:after, #wpc-weather .forecast .temp_min:after, #wpc-weather .hours .temperature:after, #wpc-weather .today .time_temperature_max:after, #wpc-weather .today .time_temperature_min:after, #wpc-weather .now .time_temperature:after, #wpc-weather .today .time_temperature_ave:after{
+	content: "° F" !important;
+     font-family: "oswald_regularregular" !important; 
+    font-size: 12px !important;
+    margin-left: 2px;
+    vertical-align: top;
+}
+}
+
 @media only screen and (max-width:900px){
 	.left.column, .right.column{
 		width:100%;
@@ -614,7 +650,29 @@ button:hover{
 	}
 }
 
+@media only screen and (min-width: 768px) and (max-width:927px){
+	.header-sec3 ul li:nth-child(3) a{
+		border-right: 2px dotted #b4b6b9;
+	}
+
+	.header-sec3 ul li:nth-child(4) a{
+		border-left:none;
+	}
+}
+
 @media only screen and (max-width: 1000px){
+
+	header, .container{
+		width:85%;
+	}
+
+	.social{
+		position:relative;
+		text-align:right;
+		margin:0;
+		padding:0;
+		top:1.25em;
+	}
 
 	.container2 div[class$="-block"]{
 		width:100%;
@@ -643,14 +701,14 @@ button:hover{
 	margin:0 auto;
 	float:none;
 	margin-bottom:1em;
-}
+	}
 
-.homepage .col-3-layout .col:nth-child(1){
-	margin-left:auto;
-}
-.homepage .col-3-layout .col:nth-child(3){
-	margin-right:auto;
-}
+	.homepage .col-3-layout .col:nth-child(1){
+		margin-left:auto;
+	}
+	.homepage .col-3-layout .col:nth-child(3){
+		margin-right:auto;
+	}
 
 	.container2 div[class$="-block"]:nth-child(n+2){
 		border-top:dotted #FFFFFF 2px;
@@ -670,22 +728,10 @@ button:hover{
 	.homepage footer{
 	position:relative;
 	bottom:0;
-}
+	}
 	
 }
 
-
-@media only screen and (max-width: 600px){
-	/*.container2 div[class$="-block"]{
-		display:block;
-		width:90%;
-		margin:0 auto;
-		border-top:dotted #FFFFFF 2px;
-		border-right:none;
-		border-left:none;
-		float:none;
-	}*/
-}
 
 
 @media only screen and (max-width: 400px){

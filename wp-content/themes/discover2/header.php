@@ -29,6 +29,7 @@ $ctr = 0;
 
  }
 else{
+ 
 	$img = get_field('background_image'); 
 	$bg_img = $img['url'];	
 }
@@ -39,7 +40,7 @@ else{
  
 
 ?>
-<body class="bg-home <?php if ( is_front_page() ) {	echo'homepage'; } ?>" style="background: url('<?php echo $bg_img; ?>') no-repeat center center fixed; background-size: cover;">
+<body class="bg-home <?php if ( is_front_page() ) {echo'homepage'; } ?>" <?php if($bg_img){?>style="background: url('<?php echo $bg_img; ?>') no-repeat center center fixed; background-size: cover;" <?php }?>>
 
 <header class="header-block">
 
@@ -48,6 +49,7 @@ else{
 		<div class="first-block"><!-- MY WEST VIRGINIA --></div> 
 
 		<ul class="social">
+		<li><?php echo do_shortcode('[wpc-weather id="22"]'); ?></li>
 		<li><a href="https://www.facebook.com/pages/Discover-Charleston-WV/884303084981830?fref=ts"><i class="fa fa-facebook"></i></a></li>
 		<li><a href="https://twitter.com/discovercwv"><i class="fa fa-twitter"></i></a></li>
 		<li><a href="https://instagram.com/discovercwv"><i class="fa fa-instagram"></i></a></li>
