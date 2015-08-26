@@ -153,14 +153,16 @@ footer {
 	background-color:#288ea5;
 	color:white;
 	text-transform: uppercase;
-	width:1.5em;
-	height:1.5em;
+	width:1.6em;
+	height:1.6em;
 	text-align:center;
-	font-size:10px;
+	font-size:11px;
 	font-family: 'oswald_regularregular';
 	position: absolute;
     left: 0;
-    top: 6px;
+    /*top: 4px;*/
+    margin-left:-2.5em;
+    line-height:1.8;
 }
 
 .map{
@@ -192,6 +194,9 @@ footer {
 .package .grid-block h2{
 	font-family: 'oswald_regularregular';
 	text-transform:uppercase;
+	line-height:1;
+	margin-bottom: 25px;
+    margin-top: 8px;
 }
 
 .package-content{

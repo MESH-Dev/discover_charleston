@@ -39,12 +39,12 @@ get_header(); ?>
         <?php if($ctr%2 == 1){ echo '<div class="row">';} ?>
  
            <div class="grid-block <?php echo $ctr;?>">
-            <div class="map-location">
-              <?php echo $map;?>
-            </div>
+           <!--  <div class="map-location"> -->
+              <?php //echo $map;?>
+            <!-- </div> -->
             <div class="package-content">
               
-              <h2><?php echo $title; ?></h2>
+              <h2><span class="map-location"><?php echo $map;?></span><?php echo $title; ?></h2>
               <p><?php echo $description; ?></p>
             </div>
           </div><!--End Grid block-->
@@ -54,20 +54,14 @@ get_header(); ?>
       <?php endwhile; ?>
       <?php endif; ?>
 
-
-
-
-      
-
-
-
-      <?php  if ($ctr%1==0) : ?>
-      </div>
+      <?php  if ($ctr%2==1) : ?>
+      </div> <!--This is the final div-->
 
       <?php endif;?> 
       <div class="map">
         <?php echo get_field('google_map') ?>
       </div>
+
     </div>
       <!--column two-->
       <div id="suggestions" class="right column">
