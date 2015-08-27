@@ -6,6 +6,7 @@
 <link href="<?php echo get_template_directory_uri(); ?>/fonts/fontawesome.min.css" rel="stylesheet" type="text/css">
 <link href="<?php echo get_template_directory_uri(); ?>/fonts/stylesheet.css" rel="stylesheet" type="text/css">
 <link href="<?php echo get_template_directory_uri(); ?>/style.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php wp_head(); ?>
 </head>
 
